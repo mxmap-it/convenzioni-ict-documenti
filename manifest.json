@@ -1,6 +1,6 @@
 {
  "repository": "https://github.com/mxmap-it/convenzioni-ict-documenti",
- "generato": "2026-11-06T15:59:56Z",
+ "generato": "2026-11-06T16:18:01Z",
  "documenti": [
   {
    "iniziativa": "cig-5133642F61",
@@ -224,26 +224,6 @@
   },
   {
    "iniziativa": "cig-8765571A03",
-   "titolo": "ID 2202 Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202202%20DOC%20NON%20UFF%20NEW.zip#ID 2202 Bando.pdf",
-   "sha256": "357d1eec04ebbe14d5d7871d636d2abd7644ec36b3d784936e790d399c6b8752",
-   "byte": 11446753,
-   "data_acquisizione": "2026-11-05T16:25:16+00:00",
-   "asset": "ID_2202_DOC_NON_UFF_NEW.zip_ID_2202_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8765571A03/ID_2202_DOC_NON_UFF_NEW.zip_ID_2202_Bando.pdf"
-  },
-  {
-   "iniziativa": "cig-8765571A03",
-   "titolo": "ID 2202 Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202202%20DOC%20UFF%20NEW.zip#Doc firmati_ID 2202/ID 2202 Bando.pdf.p7m",
-   "sha256": "34fb6d3cdfe289ef69a2bcacfd54a0c4c97a90161247af5eddd2b679e8a728cd",
-   "byte": 11507423,
-   "data_acquisizione": "2026-11-05T16:24:23+00:00",
-   "asset": "ID_2202_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8765571A03/ID_2202_Bando.pdf.p7m"
-  },
-  {
-   "iniziativa": "cig-8765571A03",
    "titolo": "ID 2202 Chiarimenti.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202202%20Chiarimenti.pdf",
    "sha256": "43b3b47fda694d461773a8632f3110c6caed8fae99ad2c7a0b24a0b9c2d45818",
@@ -261,6 +241,26 @@
    "data_acquisizione": "2026-11-05T16:24:18+00:00",
    "asset": "ID_2202_Chiarimenti_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8765571A03/ID_2202_Chiarimenti_signed.pdf"
+  },
+  {
+   "iniziativa": "cig-8765571A03",
+   "titolo": "ID 2202 DOC NON UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202202%20DOC%20NON%20UFF%20NEW.zip",
+   "sha256": "357d1eec04ebbe14d5d7871d636d2abd7644ec36b3d784936e790d399c6b8752",
+   "byte": 11446753,
+   "data_acquisizione": "2026-11-05T16:25:16+00:00",
+   "asset": "ID_2202_DOC_NON_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8765571A03/ID_2202_DOC_NON_UFF_NEW.zip"
+  },
+  {
+   "iniziativa": "cig-8765571A03",
+   "titolo": "ID 2202 DOC UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202202%20DOC%20UFF%20NEW.zip",
+   "sha256": "34fb6d3cdfe289ef69a2bcacfd54a0c4c97a90161247af5eddd2b679e8a728cd",
+   "byte": 11507423,
+   "data_acquisizione": "2026-11-05T16:24:23+00:00",
+   "asset": "ID_2202_DOC_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8765571A03/ID_2202_DOC_UFF_NEW.zip"
   },
   {
    "iniziativa": "cig-8765571A03",
@@ -294,13 +294,13 @@
   },
   {
    "iniziativa": "cig-8765571A03",
-   "titolo": "ID 2202_Accordo Quadro_ENG_L1.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202202%20SANIT%C3%80%20DIGITALE%20-%20%20Sanit%C3%A0%20Digitale%20Clinico%20Assistenziale.zip#ID 2202 SANIT╖ DIGITALE -  Sanità Digitale Clinico Assistenziale/lotto 1/ID 2202_Accordo Quadro_ENG_L1.pdf",
+   "titolo": "ID 2202 SANITÀ DIGITALE -  Sanità Digitale Clinico Assistenziale.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202202%20SANIT%C3%80%20DIGITALE%20-%20%20Sanit%C3%A0%20Digitale%20Clinico%20Assistenziale.zip",
    "sha256": "f4e34e39344fa38da1d9cded22a97b6edb399cae05c90a2001165da2a9e646c2",
    "byte": 6110072,
    "data_acquisizione": "2026-11-05T16:25:26+00:00",
-   "asset": "ID_2202_Accordo_Quadro_ENG_L1.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8765571A03/ID_2202_Accordo_Quadro_ENG_L1.pdf"
+   "asset": "ID_2202_SANITA_DIGITALE_-_Sanita_Digitale_Clinico_Assistenziale.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8765571A03/ID_2202_SANITA_DIGITALE_-_Sanita_Digitale_Clinico_Assistenziale.zip"
   },
   {
    "iniziativa": "cig-8765571A03",
@@ -424,23 +424,23 @@
   },
   {
    "iniziativa": "cig-8784303C25",
-   "titolo": "ID 2174 - Gara Strumenti di gestione, protezione email, web e dati - Bando GURI.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202174%20-%20DOC%20NON%20UFF.zip#ID 2174 PDF/ID 2174 - Gara Strumenti di gestione, protezione email, web e dati - Bando GURI.pdf",
+   "titolo": "ID 2174 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202174%20-%20DOC%20NON%20UFF.zip",
    "sha256": "424857d676b24e1de105cc6689b0f144ab91c84ce48728a1b6dafb0e0ccc10c2",
    "byte": 6889320,
    "data_acquisizione": "2026-11-05T17:20:46+00:00",
-   "asset": "ID_2174_-_Gara_Strumenti_di_gestione_protezione_email_web_e_dati_-_Bando_GURI.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8784303C25/ID_2174_-_Gara_Strumenti_di_gestione_protezione_email_web_e_dati_-_Bando_GURI.pdf"
+   "asset": "ID_2174_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8784303C25/ID_2174_-_DOC_NON_UFF.zip"
   },
   {
    "iniziativa": "cig-8784303C25",
-   "titolo": "ID 2174 - Gara Strumenti di gestione, protezione email, web e dati - Bando GURI.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202174%20-%20DOC%20UFF.zip#Doc firmati_ID 2174/ID 2174 - Gara Strumenti di gestione, protezione email, web e dati - Bando GURI.pdf.p7m",
+   "titolo": "ID 2174 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202174%20-%20DOC%20UFF.zip",
    "sha256": "a90cf50b9c8cae4b7392499dc2fce58d1bfdb1b410b890e86ad9302502791315",
    "byte": 6954981,
    "data_acquisizione": "2026-11-05T17:20:04+00:00",
-   "asset": "ID_2174_-_Gara_Strumenti_di_gestione_protezione_email_web_e_dati_-_Bando_GURI.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8784303C25/ID_2174_-_Gara_Strumenti_di_gestione_protezione_email_web_e_dati_-_Bando_GURI.pdf.p7m"
+   "asset": "ID_2174_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-8784303C25/ID_2174_-_DOC_UFF.zip"
   },
   {
    "iniziativa": "cig-8784303C25",
@@ -894,26 +894,6 @@
   },
   {
    "iniziativa": "cig-9030521DAA",
-   "titolo": "ID 2365 Bando_NEW.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20DOC%20NON%20UFF%20NEW3.zip#ID 2365 Bando_NEW.pdf",
-   "sha256": "8fbc002aaceadbf862e7bbd4403ee07ba4f26f9390acd5756822b84bfe5c3444",
-   "byte": 14384203,
-   "data_acquisizione": "2026-11-05T16:38:10+00:00",
-   "asset": "ID_2365_DOC_NON_UFF_NEW3.zip_ID_2365_Bando_NEW.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-9030521DAA/ID_2365_DOC_NON_UFF_NEW3.zip_ID_2365_Bando_NEW.pdf"
-  },
-  {
-   "iniziativa": "cig-9030521DAA",
-   "titolo": "ID 2365 Bando_NEW.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202365%20DOC%20UFF%20NEW3.zip#ID 2365 Bando_NEW.pdf.p7m",
-   "sha256": "7f2b96c5114123651fc2aa13d30e757649f074018e07ac0fff109be885862c7c",
-   "byte": 14497252,
-   "data_acquisizione": "2026-11-05T16:38:08+00:00",
-   "asset": "ID_2365_DOC_UFF_NEW3.zip_ID_2365_Bando_NEW.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-9030521DAA/ID_2365_DOC_UFF_NEW3.zip_ID_2365_Bando_NEW.pdf.p7m"
-  },
-  {
-   "iniziativa": "cig-9030521DAA",
    "titolo": "ID 2365 Chiarimenti.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20Chiarimenti.pdf",
    "sha256": "d8d0247afc1feeaac488124f7adc5592073d2abc81ba5ff14d4051b43f07bd20",
@@ -974,6 +954,26 @@
   },
   {
    "iniziativa": "cig-9030521DAA",
+   "titolo": "ID 2365 DOC NON UFF NEW3.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20DOC%20NON%20UFF%20NEW3.zip",
+   "sha256": "8fbc002aaceadbf862e7bbd4403ee07ba4f26f9390acd5756822b84bfe5c3444",
+   "byte": 14384203,
+   "data_acquisizione": "2026-11-05T16:38:10+00:00",
+   "asset": "ID_2365_DOC_NON_UFF_NEW3.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-9030521DAA/ID_2365_DOC_NON_UFF_NEW3.zip"
+  },
+  {
+   "iniziativa": "cig-9030521DAA",
+   "titolo": "ID 2365 DOC UFF NEW3.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202365%20DOC%20UFF%20NEW3.zip",
+   "sha256": "7f2b96c5114123651fc2aa13d30e757649f074018e07ac0fff109be885862c7c",
+   "byte": 14497252,
+   "data_acquisizione": "2026-11-05T16:38:08+00:00",
+   "asset": "ID_2365_DOC_UFF_NEW3.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-9030521DAA/ID_2365_DOC_UFF_NEW3.zip"
+  },
+  {
+   "iniziativa": "cig-9030521DAA",
    "titolo": "ID 2365 Determina a contrarre.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20Determina%20a%20contrarre.pdf",
    "sha256": "e6b23322723a6d7f165f1372759d3ed56b66a73c3d252abae91287ffede8cc34",
@@ -1004,13 +1004,13 @@
   },
   {
    "iniziativa": "cig-9030521DAA",
-   "titolo": "ID 2365_Accordo Quadro_DEDALUS_L1.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20Sanit%C3%A0%20digitale%20%20Sistemi%20informativi%20sanitari.zip#ID 2365 Sanità digitale  Sistemi informativi sanitari/lotto 1/ID 2365_Accordo Quadro_DEDALUS_L1.pdf",
+   "titolo": "ID 2365 Sanità digitale  Sistemi informativi sanitari.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20Sanit%C3%A0%20digitale%20%20Sistemi%20informativi%20sanitari.zip",
    "sha256": "52d4d9a5b1ee0b53fb3f5f8f9f9542caa62b5b2243ddd3f7332bff118b5da4c7",
    "byte": 23022913,
    "data_acquisizione": "2026-11-05T16:38:10+00:00",
-   "asset": "ID_2365_Accordo_Quadro_DEDALUS_L1.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-9030521DAA/ID_2365_Accordo_Quadro_DEDALUS_L1.pdf"
+   "asset": "ID_2365_Sanita_digitale_Sistemi_informativi_sanitari.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-9030521DAA/ID_2365_Sanita_digitale_Sistemi_informativi_sanitari.zip"
   },
   {
    "iniziativa": "cig-9030521DAA",
@@ -1794,26 +1794,6 @@
   },
   {
    "iniziativa": "cig-B1457D3391",
-   "titolo": "BANDO GUUE ID 2729.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202729%20-%20DOC%20NON%20UFF.zip#BANDO GUUE ID 2729.pdf",
-   "sha256": "c9647010bd3820d4fe772fca6df9ca858c7d693d9c9d4bc30772628c3cd0761f",
-   "byte": 20382907,
-   "data_acquisizione": "2026-11-05T17:12:23+00:00",
-   "asset": "ID_2729_-_DOC_NON_UFF.zip_BANDO_GUUE_ID_2729.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_DOC_NON_UFF.zip_BANDO_GUUE_ID_2729.pdf"
-  },
-  {
-   "iniziativa": "cig-B1457D3391",
-   "titolo": "BANDO GUUE ID 2729.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202729%20-%20DOC%20UFF.zip#BANDO GUUE ID 2729.pdf.p7m",
-   "sha256": "0dd6737e022c63cb2f2fa39f9039f576a83d8bd1269d2ee3b2f020da3b9c44e9",
-   "byte": 20517769,
-   "data_acquisizione": "2026-11-05T17:11:29+00:00",
-   "asset": "ID_2729_-_DOC_UFF.zip_BANDO_GUUE_ID_2729.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_DOC_UFF.zip_BANDO_GUUE_ID_2729.pdf.p7m"
-  },
-  {
-   "iniziativa": "cig-B1457D3391",
    "titolo": "CONSIP 3 - DICHIARAZIONE RAPPORTO SITUAZIONE DEL PERSONALE FIN.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/CONSIP%203%20-%20DICHIARAZIONE%20RAPPORTO%20SITUAZIONE%20DEL%20PERSONALE%20FIN.pdf",
    "sha256": "47e1728df87d2543fd134097fffeaa241d4471bda453e5e482b627b3248ce957",
@@ -1874,13 +1854,23 @@
   },
   {
    "iniziativa": "cig-B1457D3391",
-   "titolo": "ID 2729 - Fotocopiatrici Multifunzione 3 - All. 2 allo schema di convenzione - Nomina Responsabile trattamento dati Convenzione.docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202729%20-%20MODULI%20DI%20DICHIARAZIONE.zip#ID 2729 - Fotocopiatrici Multifunzione 3 - All. 2 allo schema di convenzione - Nomina Responsabile trattamento dati Convenzione.docx",
-   "sha256": "183ae891805f6e45c27eff667fea3cc2edf002db76ec419c0194ab6b2b329547",
-   "byte": 335555,
-   "data_acquisizione": "2026-11-05T17:12:50+00:00",
-   "asset": "ID_2729_-_MODULI_DI_DICHIARAZIONE.zip_ID_2729_-_Fotocopiatrici_Multifunzione_3_-_All._2_allo_schema_di_convenzione_-_Nomina_Responsabile_tra.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_MODULI_DI_DICHIARAZIONE.zip_ID_2729_-_Fotocopiatrici_Multifunzione_3_-_All._2_allo_schema_di_convenzione_-_Nomina_Responsabile_tra.docx"
+   "titolo": "ID 2729 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202729%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "c9647010bd3820d4fe772fca6df9ca858c7d693d9c9d4bc30772628c3cd0761f",
+   "byte": 20382907,
+   "data_acquisizione": "2026-11-05T17:12:23+00:00",
+   "asset": "ID_2729_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "cig-B1457D3391",
+   "titolo": "ID 2729 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202729%20-%20DOC%20UFF.zip",
+   "sha256": "0dd6737e022c63cb2f2fa39f9039f576a83d8bd1269d2ee3b2f020da3b9c44e9",
+   "byte": 20517769,
+   "data_acquisizione": "2026-11-05T17:11:29+00:00",
+   "asset": "ID_2729_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_DOC_UFF.zip"
   },
   {
    "iniziativa": "cig-B1457D3391",
@@ -1924,6 +1914,16 @@
   },
   {
    "iniziativa": "cig-B1457D3391",
+   "titolo": "ID 2729 - Fotocopiatrici Multifunzione 3 - Contratti.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202729%20-%20Fotocopiatrici%20Multifunzione%203%20-%20Contratti.zip",
+   "sha256": "e8f3025634cf0ae09e2e44eafa23db79de41d69c4be6312e7cce16933d5f87aa",
+   "byte": 79677505,
+   "data_acquisizione": "2026-11-05T17:12:39+00:00",
+   "asset": "ID_2729_-_Fotocopiatrici_Multifunzione_3_-_Contratti.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_Fotocopiatrici_Multifunzione_3_-_Contratti.zip"
+  },
+  {
+   "iniziativa": "cig-B1457D3391",
    "titolo": "ID 2729 - Fotocopiatrici Multifunzione 3 - Determina a contrarre.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202729%20-%20Fotocopiatrici%20Multifunzione%203%20-%20Determina%20a%20contrarre.pdf",
    "sha256": "cf25aacb68ecbbe0fa8d5a97a3b4b7d67d9a0c33ac0a81f33b336e8e4ec92d34",
@@ -1944,16 +1944,6 @@
   },
   {
    "iniziativa": "cig-B1457D3391",
-   "titolo": "ID 2729 - Fotocopiatrici Multifunzione 3 - Lotto 1 - Convenzione.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202729%20-%20Fotocopiatrici%20Multifunzione%203%20-%20Contratti.zip#ID 2729 - Fotocopiatrici Multifunzione 3 - Lotto 1 - Convenzione.pdf",
-   "sha256": "e8f3025634cf0ae09e2e44eafa23db79de41d69c4be6312e7cce16933d5f87aa",
-   "byte": 79677505,
-   "data_acquisizione": "2026-11-05T17:12:39+00:00",
-   "asset": "ID_2729_-_Fotocopiatrici_Multifunzione_3_-_Contratti.zip_ID_2729_-_Fotocopiatrici_Multifunzione_3_-_Lotto_1_-_Convenzione.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_Fotocopiatrici_Multifunzione_3_-_Contratti.zip_ID_2729_-_Fotocopiatrici_Multifunzione_3_-_Lotto_1_-_Convenzione.pdf"
-  },
-  {
-   "iniziativa": "cig-B1457D3391",
    "titolo": "ID 2729 - Lettere di proroga.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202729%20-%20Lettere%20di%20proroga.zip",
    "sha256": "35149dd0686117fb39710810d0714f0d07da059723a650985ec5bca58a5f3f94",
@@ -1961,6 +1951,16 @@
    "data_acquisizione": "2026-11-05T17:11:51+00:00",
    "asset": "ID_2729_-_Lettere_di_proroga.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_Lettere_di_proroga.zip"
+  },
+  {
+   "iniziativa": "cig-B1457D3391",
+   "titolo": "ID 2729 - MODULI DI DICHIARAZIONE.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202729%20-%20MODULI%20DI%20DICHIARAZIONE.zip",
+   "sha256": "183ae891805f6e45c27eff667fea3cc2edf002db76ec419c0194ab6b2b329547",
+   "byte": 335555,
+   "data_acquisizione": "2026-11-05T17:12:50+00:00",
+   "asset": "ID_2729_-_MODULI_DI_DICHIARAZIONE.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B1457D3391/ID_2729_-_MODULI_DI_DICHIARAZIONE.zip"
   },
   {
    "iniziativa": "cig-B1457D3391",
@@ -2034,6 +2034,26 @@
   },
   {
    "iniziativa": "cig-B2FB115279",
+   "titolo": "DOC NON UFF- ID 2748_INAIL Ist 3.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF-%20ID%202748_INAIL%20Ist%203.zip",
+   "sha256": "237a81eaac239eeff03028cddcec2abb7ec4d43179f47fb501c427e3df8ddcd3",
+   "byte": 12499661,
+   "data_acquisizione": "2026-11-05T16:52:09+00:00",
+   "asset": "DOC_NON_UFF-_ID_2748_INAIL_Ist_3.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B2FB115279/DOC_NON_UFF-_ID_2748_INAIL_Ist_3.zip"
+  },
+  {
+   "iniziativa": "cig-B2FB115279",
+   "titolo": "DOC UFF - ID 2748_INAIL Ist 3.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20-%20ID%202748_INAIL%20Ist%203.zip",
+   "sha256": "0bcb95ab5fefe300dc1807912bc133a98be5c82587cbb2f972cee1eacd9a244d",
+   "byte": 12645098,
+   "data_acquisizione": "2026-11-05T16:51:48+00:00",
+   "asset": "DOC_UFF_-_ID_2748_INAIL_Ist_3.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B2FB115279/DOC_UFF_-_ID_2748_INAIL_Ist_3.zip"
+  },
+  {
+   "iniziativa": "cig-B2FB115279",
    "titolo": "Elenco Operatori offerenti - ID 2748.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Elenco%20Operatori%20offerenti%20-%20ID%202748.pdf",
    "sha256": "86e8b26d07020c7089095129cc4e98c4cb34fc4ce336e0b2553d72c1d100683d",
@@ -2051,26 +2071,6 @@
    "data_acquisizione": "2026-11-05T16:52:20+00:00",
    "asset": "Elenco_verbali_-_ID2748.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B2FB115279/Elenco_verbali_-_ID2748.pdf"
-  },
-  {
-   "iniziativa": "cig-B2FB115279",
-   "titolo": "ID 2748 - BANDO DI GARA.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF-%20ID%202748_INAIL%20Ist%203.zip#ID 2748_INAIL Ist 3_pdf/ID 2748 - BANDO DI GARA.pdf",
-   "sha256": "237a81eaac239eeff03028cddcec2abb7ec4d43179f47fb501c427e3df8ddcd3",
-   "byte": 12499661,
-   "data_acquisizione": "2026-11-05T16:52:09+00:00",
-   "asset": "ID_2748_-_BANDO_DI_GARA.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B2FB115279/ID_2748_-_BANDO_DI_GARA.pdf"
-  },
-  {
-   "iniziativa": "cig-B2FB115279",
-   "titolo": "ID 2748 - BANDO DI GARA.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20-%20ID%202748_INAIL%20Ist%203.zip#ID 2748 - BANDO DI GARA.pdf.p7m",
-   "sha256": "0bcb95ab5fefe300dc1807912bc133a98be5c82587cbb2f972cee1eacd9a244d",
-   "byte": 12645098,
-   "data_acquisizione": "2026-11-05T16:51:48+00:00",
-   "asset": "DOC_UFF_-_ID_2748_INAIL_Ist_3.zip_ID_2748_-_BANDO_DI_GARA.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/cig-B2FB115279/DOC_UFF_-_ID_2748_INAIL_Ist_3.zip_ID_2748_-_BANDO_DI_GARA.pdf.p7m"
   },
   {
    "iniziativa": "cig-B2FB115279",
@@ -2124,6 +2124,26 @@
   },
   {
    "iniziativa": "consip-1403",
+   "titolo": "8555DocumentazioneNO.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/8555DocumentazioneNO.zip",
+   "sha256": "dce278297cfde8d6d476125ef8cb67ca9f515b93c22f242e59b71059f5b7c3e9",
+   "byte": 2416724,
+   "data_acquisizione": "2026-11-05T17:30:08+00:00",
+   "asset": "8555DocumentazioneNO.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/8555DocumentazioneNO.zip"
+  },
+  {
+   "iniziativa": "consip-1403",
+   "titolo": "8555DocumentazioneUF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/8555DocumentazioneUF.zip",
+   "sha256": "77e4cd51d79091273f2afb2acd98420c67f19c4d37e92873066f77c5fa0bd64a",
+   "byte": 2435810,
+   "data_acquisizione": "2026-11-05T17:29:37+00:00",
+   "asset": "8555DocumentazioneUF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/8555DocumentazioneUF.zip"
+  },
+  {
+   "iniziativa": "consip-1403",
    "titolo": "8557Erratacorrige-ch.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/8557Erratacorrige-ch.pdf",
    "sha256": "c4a41094ea292336031c7ce69c3f6b4b29a20fa84ec6db7f4be3527afd0d8dc7",
@@ -2174,6 +2194,26 @@
   },
   {
    "iniziativa": "consip-1403",
+   "titolo": "8704AvvisodiprorogaU.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/8704AvvisodiprorogaU.zip",
+   "sha256": "5884389f7008cada09f7858832b1e2f83b941d54ee22cb4beac58572bf92d397",
+   "byte": 310258,
+   "data_acquisizione": "2026-11-05T17:29:52+00:00",
+   "asset": "8704AvvisodiprorogaU.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/8704AvvisodiprorogaU.zip"
+  },
+  {
+   "iniziativa": "consip-1403",
+   "titolo": "8705AvvisodiprorogaN.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/8705AvvisodiprorogaN.zip",
+   "sha256": "c77762bd8cf8e060a128001faab48d6fa426e7f2ec09add2817e94130e0c04be",
+   "byte": 305164,
+   "data_acquisizione": "2026-11-05T17:30:29+00:00",
+   "asset": "8705AvvisodiprorogaN.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/8705AvvisodiprorogaN.zip"
+  },
+  {
+   "iniziativa": "consip-1403",
    "titolo": "8753IIITrancheChiari.p7m",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/8753IIITrancheChiari.p7m",
    "sha256": "8394c3d2ff3851c95c11015efbcde4b52e19723da056d7650b8f7d770c2104d1",
@@ -2191,46 +2231,6 @@
    "data_acquisizione": "2026-11-05T17:30:34+00:00",
    "asset": "8754IIITrancheChiari.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/8754IIITrancheChiari.pdf"
-  },
-  {
-   "iniziativa": "consip-1403",
-   "titolo": "GUUE.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/8705AvvisodiprorogaN.zip#Avviso di proroga NON UFFICIALE/GUUE.pdf",
-   "sha256": "c77762bd8cf8e060a128001faab48d6fa426e7f2ec09add2817e94130e0c04be",
-   "byte": 305164,
-   "data_acquisizione": "2026-11-05T17:30:29+00:00",
-   "asset": "GUUE.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/GUUE.pdf"
-  },
-  {
-   "iniziativa": "consip-1403",
-   "titolo": "GUUE.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/8704AvvisodiprorogaU.zip#Avviso di proroga UFFICIALE/GUUE.pdf.p7m",
-   "sha256": "5884389f7008cada09f7858832b1e2f83b941d54ee22cb4beac58572bf92d397",
-   "byte": 310258,
-   "data_acquisizione": "2026-11-05T17:29:52+00:00",
-   "asset": "GUUE.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/GUUE.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-1403",
-   "titolo": "Gara Cloud_Bando di gara (24_12_2013).pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/8555DocumentazioneNO.zip#Doc pubblicazione gara cloud 20131224_pdf/Gara Cloud_Bando di gara (24_12_2013).pdf",
-   "sha256": "dce278297cfde8d6d476125ef8cb67ca9f515b93c22f242e59b71059f5b7c3e9",
-   "byte": 2416724,
-   "data_acquisizione": "2026-11-05T17:30:08+00:00",
-   "asset": "Gara_Cloud_Bando_di_gara_24_12_2013_.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/Gara_Cloud_Bando_di_gara_24_12_2013_.pdf"
-  },
-  {
-   "iniziativa": "consip-1403",
-   "titolo": "Gara Cloud_Bando di gara (24_12_2013).pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/8555DocumentazioneUF.zip#Doc pubblicazione gara cloud_ID 1403/Gara Cloud_Bando di gara (24_12_2013).pdf.p7m",
-   "sha256": "77e4cd51d79091273f2afb2acd98420c67f19c4d37e92873066f77c5fa0bd64a",
-   "byte": 2435810,
-   "data_acquisizione": "2026-11-05T17:29:37+00:00",
-   "asset": "Gara_Cloud_Bando_di_gara_24_12_2013_.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1403/Gara_Cloud_Bando_di_gara_24_12_2013_.pdf.p7m"
   },
   {
    "iniziativa": "consip-1403",
@@ -2304,43 +2304,23 @@
   },
   {
    "iniziativa": "consip-1561",
-   "titolo": "BANDO GURI.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID-1561-Documentazione-NON-Ufficiale.zip#BANDO GURI.pdf",
-   "sha256": "d7aaa90033468893e0d285244ba423f6db5e3e6029982de6a7091e3c43619f28",
-   "byte": 6514222,
-   "data_acquisizione": "2026-11-05T17:19:22+00:00",
-   "asset": "ID-1561-Documentazione-NON-Ufficiale.zip_BANDO_GURI.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/ID-1561-Documentazione-NON-Ufficiale.zip_BANDO_GURI.pdf"
-  },
-  {
-   "iniziativa": "consip-1561",
-   "titolo": "BANDO GURI.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID-1561-Documentazione-UFFICIALE.zip#FirmDig_ID 1561/BANDO GURI.pdf.p7m",
-   "sha256": "e1985d41140b5b1d62c9c4a051eb99bbe93d141bf06e90a280354d81eb4fcc05",
-   "byte": 6562322,
-   "data_acquisizione": "2026-11-05T17:18:34+00:00",
-   "asset": "BANDO_GURI.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/BANDO_GURI.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-1561",
-   "titolo": "BANDO GUUE PROROGA ID 1561.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/AVVISO-DI-PROROGA-DOC-NON-UFF_-FM-Beni-Culturali-ID-1561.zip#AVVISO DI PROROGA DOC NON UFF_ FM Beni Culturali ID 1561/BANDO GUUE PROROGA ID 1561.pdf",
+   "titolo": "AVVISO-DI-PROROGA-DOC-NON-UFF_-FM-Beni-Culturali-ID-1561.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/AVVISO-DI-PROROGA-DOC-NON-UFF_-FM-Beni-Culturali-ID-1561.zip",
    "sha256": "9063fd09b4f364024c7777d560dbe94f3eb00e20d1494566867c4b09cd9f35b6",
    "byte": 117608,
    "data_acquisizione": "2026-11-05T17:18:50+00:00",
-   "asset": "BANDO_GUUE_PROROGA_ID_1561.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/BANDO_GUUE_PROROGA_ID_1561.pdf"
+   "asset": "AVVISO-DI-PROROGA-DOC-NON-UFF_-FM-Beni-Culturali-ID-1561.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/AVVISO-DI-PROROGA-DOC-NON-UFF_-FM-Beni-Culturali-ID-1561.zip"
   },
   {
    "iniziativa": "consip-1561",
-   "titolo": "BANDO GUUE PROROGA ID 1561.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/AVVISO-DI-PROROGA-DOC-UFF-_FM-Beni-Culturali-ID-1561.zip#AVVISO DI PROROGA DOC UFF _FM Beni Culturali ID 1561/BANDO GUUE PROROGA ID 1561.pdf.p7m",
+   "titolo": "AVVISO-DI-PROROGA-DOC-UFF-_FM-Beni-Culturali-ID-1561.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/AVVISO-DI-PROROGA-DOC-UFF-_FM-Beni-Culturali-ID-1561.zip",
    "sha256": "f5faac7f4f7549303169b2b7ec0b1ec4ca8345b57a7f1d73196170e316afa540",
    "byte": 120187,
    "data_acquisizione": "2026-11-05T17:18:13+00:00",
-   "asset": "BANDO_GUUE_PROROGA_ID_1561.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/BANDO_GUUE_PROROGA_ID_1561.pdf.p7m"
+   "asset": "AVVISO-DI-PROROGA-DOC-UFF-_FM-Beni-Culturali-ID-1561.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/AVVISO-DI-PROROGA-DOC-UFF-_FM-Beni-Culturali-ID-1561.zip"
   },
   {
    "iniziativa": "consip-1561",
@@ -2434,16 +2414,6 @@
   },
   {
    "iniziativa": "consip-1561",
-   "titolo": "ID 1561 Convenzione LOTTI 4 e 5.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%201561_CONVENZIONI%20Lotti%201%2C%203%2C%204%2C%205%2C%206%2C%208%20e%209.zip#ID 1561_CONVENZIONI Lotti 1, 3, 4, 5, 6, 8 e 9/ID 1561 Convenzione LOTTI 4 e 5.pdf",
-   "sha256": "aab00db1c0bac07a89bcf18e8d469e0e8e6da61de4dda911f90cc4c20fd3b07c",
-   "byte": 3066305,
-   "data_acquisizione": "2026-11-05T17:19:11+00:00",
-   "asset": "ID_1561_Convenzione_LOTTI_4_e_5.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/ID_1561_Convenzione_LOTTI_4_e_5.pdf"
-  },
-  {
-   "iniziativa": "consip-1561",
    "titolo": "ID 1561 Convenzione LOTTO 7.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%201561%20Convenzione%20LOTTO%207.pdf",
    "sha256": "d27bf8dc261837d2d0594999e00750b33016089c01a5ceb520f9acab2229bf5c",
@@ -2451,6 +2421,16 @@
    "data_acquisizione": "2026-11-05T17:19:06+00:00",
    "asset": "ID_1561_Convenzione_LOTTO_7.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/ID_1561_Convenzione_LOTTO_7.pdf"
+  },
+  {
+   "iniziativa": "consip-1561",
+   "titolo": "ID 1561_CONVENZIONI Lotti 1, 3, 4, 5, 6, 8 e 9.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%201561_CONVENZIONI%20Lotti%201%2C%203%2C%204%2C%205%2C%206%2C%208%20e%209.zip",
+   "sha256": "aab00db1c0bac07a89bcf18e8d469e0e8e6da61de4dda911f90cc4c20fd3b07c",
+   "byte": 3066305,
+   "data_acquisizione": "2026-11-05T17:19:11+00:00",
+   "asset": "ID_1561_CONVENZIONI_Lotti_1_3_4_5_6_8_e_9.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/ID_1561_CONVENZIONI_Lotti_1_3_4_5_6_8_e_9.zip"
   },
   {
    "iniziativa": "consip-1561",
@@ -2471,6 +2451,26 @@
    "data_acquisizione": "2026-11-05T17:18:29+00:00",
    "asset": "ID_1561_PROROGHE_TEMPORALI_Lotti_3_4_e_5.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/ID_1561_PROROGHE_TEMPORALI_Lotti_3_4_e_5.zip"
+  },
+  {
+   "iniziativa": "consip-1561",
+   "titolo": "ID-1561-Documentazione-NON-Ufficiale.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID-1561-Documentazione-NON-Ufficiale.zip",
+   "sha256": "d7aaa90033468893e0d285244ba423f6db5e3e6029982de6a7091e3c43619f28",
+   "byte": 6514222,
+   "data_acquisizione": "2026-11-05T17:19:22+00:00",
+   "asset": "ID-1561-Documentazione-NON-Ufficiale.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/ID-1561-Documentazione-NON-Ufficiale.zip"
+  },
+  {
+   "iniziativa": "consip-1561",
+   "titolo": "ID-1561-Documentazione-UFFICIALE.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID-1561-Documentazione-UFFICIALE.zip",
+   "sha256": "e1985d41140b5b1d62c9c4a051eb99bbe93d141bf06e90a280354d81eb4fcc05",
+   "byte": 6562322,
+   "data_acquisizione": "2026-11-05T17:18:34+00:00",
+   "asset": "ID-1561-Documentazione-UFFICIALE.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1561/ID-1561-Documentazione-UFFICIALE.zip"
   },
   {
    "iniziativa": "consip-1561",
@@ -2864,26 +2864,6 @@
   },
   {
    "iniziativa": "consip-1836",
-   "titolo": "AQ_System_Management2_Bando_GURI.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFFICIALE%20ID%201836.zip#AQ_System_Management2_Bando_GURI.pdf",
-   "sha256": "e953d284753fa72de4b1a08c9f44e7dfd92eabec3c4856f74ea1ad5aee4d5c2b",
-   "byte": 8232870,
-   "data_acquisizione": "2026-11-05T17:29:10+00:00",
-   "asset": "DOC_NON_UFFICIALE_ID_1836.zip_AQ_System_Management2_Bando_GURI.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1836/DOC_NON_UFFICIALE_ID_1836.zip_AQ_System_Management2_Bando_GURI.pdf"
-  },
-  {
-   "iniziativa": "consip-1836",
-   "titolo": "AQ_System_Management2_Bando_GURI.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFFICIALE%20ID%201836.zip#AQ_System_Management2_Bando_GURI.pdf.p7m",
-   "sha256": "33d96bbff97210609a74319128ec5c7a7ac93ec60c7fb1e72eb4af73544348f4",
-   "byte": 8266083,
-   "data_acquisizione": "2026-11-05T17:28:38+00:00",
-   "asset": "DOC_UFFICIALE_ID_1836.zip_AQ_System_Management2_Bando_GURI.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1836/DOC_UFFICIALE_ID_1836.zip_AQ_System_Management2_Bando_GURI.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-1836",
    "titolo": "AVVISO DI ESITO - ID 1836.p7m",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/AVVISO%20DI%20ESITO%20-%20ID%201836.p7m",
    "sha256": "3d443c67abe3eb08198ad57c8e21ff9f1a2e69f7679bc9341b861b1fcb9bd64e",
@@ -2921,6 +2901,26 @@
    "data_acquisizione": "2026-11-05T17:28:33+00:00",
    "asset": "Comunicazione_nulla_osta_Kirey_Srl._ID_1836_lotto_1-signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1836/Comunicazione_nulla_osta_Kirey_Srl._ID_1836_lotto_1-signed.pdf"
+  },
+  {
+   "iniziativa": "consip-1836",
+   "titolo": "DOC NON UFFICIALE ID 1836.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFFICIALE%20ID%201836.zip",
+   "sha256": "e953d284753fa72de4b1a08c9f44e7dfd92eabec3c4856f74ea1ad5aee4d5c2b",
+   "byte": 8232870,
+   "data_acquisizione": "2026-11-05T17:29:10+00:00",
+   "asset": "DOC_NON_UFFICIALE_ID_1836.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1836/DOC_NON_UFFICIALE_ID_1836.zip"
+  },
+  {
+   "iniziativa": "consip-1836",
+   "titolo": "DOC UFFICIALE ID 1836.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFFICIALE%20ID%201836.zip",
+   "sha256": "33d96bbff97210609a74319128ec5c7a7ac93ec60c7fb1e72eb4af73544348f4",
+   "byte": 8266083,
+   "data_acquisizione": "2026-11-05T17:28:38+00:00",
+   "asset": "DOC_UFFICIALE_ID_1836.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-1836/DOC_UFFICIALE_ID_1836.zip"
   },
   {
    "iniziativa": "consip-1836",
@@ -3134,6 +3134,26 @@
   },
   {
    "iniziativa": "consip-2181",
+   "titolo": "DOC NON UFF ID2181 - NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF%20ID2181%20-%20NEW.zip",
+   "sha256": "b6dfe7db2f45e6f244c0891f999a8de3f55075b7e8795e0dffeca8ec4c674476",
+   "byte": 16328250,
+   "data_acquisizione": "2026-11-05T16:36:31+00:00",
+   "asset": "DOC_NON_UFF_ID2181_-_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2181/DOC_NON_UFF_ID2181_-_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2181",
+   "titolo": "DOC UFF ID2181 - NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20ID2181%20-%20NEW.zip",
+   "sha256": "75b744bba0de48e7b6c484136268a0db78e9150fe807b5cd1d98891de8902b47",
+   "byte": 16365334,
+   "data_acquisizione": "2026-11-05T16:35:27+00:00",
+   "asset": "DOC_UFF_ID2181_-_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2181/DOC_UFF_ID2181_-_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2181",
    "titolo": "Documentazione di gara NEW - Parte 1 - NON firmata digitalmente",
    "url_originale": "https://www.acquistinretepa.it/downloadservices/getDocument?id=9eed403800d67972",
    "sha256": "fb1cf0eb580a161ebf90849fed70a972548e1b971983ec78a7ebac1e5046160d",
@@ -3344,36 +3364,6 @@
   },
   {
    "iniziativa": "consip-2181",
-   "titolo": "ID2181 - Gara AQ SGM ed.1 - All.4 - Schema Accordo Quadro.docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/MODULI%20DI%20DICHIARAZIONE%20-%20ID%202181.zip#MODULI DI DICHIARAZIONE/ID2181 - Gara AQ SGM ed.1 - All.4 - Schema Accordo Quadro.docx",
-   "sha256": "58dc2d19c6031c30e972b897a98b2c348975750307d700c71f8935f947b865c3",
-   "byte": 385146,
-   "data_acquisizione": "2026-11-05T16:37:40+00:00",
-   "asset": "ID2181_-_Gara_AQ_SGM_ed.1_-_All.4_-_Schema_Accordo_Quadro.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2181/ID2181_-_Gara_AQ_SGM_ed.1_-_All.4_-_Schema_Accordo_Quadro.docx"
-  },
-  {
-   "iniziativa": "consip-2181",
-   "titolo": "ID2181 - Gara AQ SGM ed.1 - Bando GURI.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF%20ID2181%20-%20NEW.zip#PDF/ID2181 - Gara AQ SGM ed.1 - Bando GURI.pdf",
-   "sha256": "b6dfe7db2f45e6f244c0891f999a8de3f55075b7e8795e0dffeca8ec4c674476",
-   "byte": 16328250,
-   "data_acquisizione": "2026-11-05T16:36:31+00:00",
-   "asset": "ID2181_-_Gara_AQ_SGM_ed.1_-_Bando_GURI.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2181/ID2181_-_Gara_AQ_SGM_ed.1_-_Bando_GURI.pdf"
-  },
-  {
-   "iniziativa": "consip-2181",
-   "titolo": "ID2181 - Gara AQ SGM ed.1 - Bando GURI.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20ID2181%20-%20NEW.zip#ID2181 - Gara AQ SGM ed.1 - Bando GURI.pdf.p7m",
-   "sha256": "75b744bba0de48e7b6c484136268a0db78e9150fe807b5cd1d98891de8902b47",
-   "byte": 16365334,
-   "data_acquisizione": "2026-11-05T16:35:27+00:00",
-   "asset": "DOC_UFF_ID2181_-_NEW.zip_ID2181_-_Gara_AQ_SGM_ed.1_-_Bando_GURI.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2181/DOC_UFF_ID2181_-_NEW.zip_ID2181_-_Gara_AQ_SGM_ed.1_-_Bando_GURI.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2181",
    "titolo": "ID2181 - Gara AQ SGM ed.1 - Chiarimenti II Tranche.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2181%20-%20Gara%20AQ%20SGM%20ed.1%20-%20Chiarimenti%20II%20Tranche.pdf",
    "sha256": "61d21ab1c1202c168b84f104ce6bb0d0f1e758cba563d441b3a73fb261261e75",
@@ -3431,6 +3421,16 @@
    "data_acquisizione": "2026-11-05T16:36:26+00:00",
    "asset": "ID2181_-_Gara_AQ_SGM_ed.1_-_Chiarimenti_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2181/ID2181_-_Gara_AQ_SGM_ed.1_-_Chiarimenti_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2181",
+   "titolo": "MODULI DI DICHIARAZIONE - ID 2181.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/MODULI%20DI%20DICHIARAZIONE%20-%20ID%202181.zip",
+   "sha256": "58dc2d19c6031c30e972b897a98b2c348975750307d700c71f8935f947b865c3",
+   "byte": 385146,
+   "data_acquisizione": "2026-11-05T16:37:40+00:00",
+   "asset": "MODULI_DI_DICHIARAZIONE_-_ID_2181.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2181/MODULI_DI_DICHIARAZIONE_-_ID_2181.zip"
   },
   {
    "iniziativa": "consip-2181",
@@ -3574,6 +3574,16 @@
   },
   {
    "iniziativa": "consip-2187",
+   "titolo": "Doc firmati_ID 2187.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/Doc%20firmati_ID%202187.zip",
+   "sha256": "093fbd50bd2552202f2ba59dc949e13564d0000a8dbc089776605a3bb67bd5e9",
+   "byte": 6416614,
+   "data_acquisizione": "2026-11-05T16:55:57+00:00",
+   "asset": "Doc_firmati_ID_2187.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2187/Doc_firmati_ID_2187.zip"
+  },
+  {
+   "iniziativa": "consip-2187",
    "titolo": "Elenco verbali - ID 2187.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Elenco%20verbali%20-%20ID%202187.pdf",
    "sha256": "ed1f51403a469574e046a7c946199a3a81ebd5004d260317ccc0072effe87d2a",
@@ -3581,26 +3591,6 @@
    "data_acquisizione": "2026-11-05T16:56:34+00:00",
    "asset": "Elenco_verbali_-_ID_2187.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2187/Elenco_verbali_-_ID_2187.pdf"
-  },
-  {
-   "iniziativa": "consip-2187",
-   "titolo": "ID 2187 - MS EA - 6 - Allegato 3A Condizioni Generali.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2187%20-%20MEA6%20-%20PDF.zip#ID2187 - MEA6 - PDF/ID 2187 - MS EA - 6 - Allegato 3A Condizioni Generali.pdf",
-   "sha256": "d35e11871ad7fab27a951dd7c99043498eba3599334b96bb95dd4fcc6be5590f",
-   "byte": 6377496,
-   "data_acquisizione": "2026-11-05T16:56:49+00:00",
-   "asset": "ID_2187_-_MS_EA_-_6_-_Allegato_3A_Condizioni_Generali.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2187/ID_2187_-_MS_EA_-_6_-_Allegato_3A_Condizioni_Generali.pdf"
-  },
-  {
-   "iniziativa": "consip-2187",
-   "titolo": "ID 2187 - MS EA - 6 - Allegato 3A Condizioni Generali.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/Doc%20firmati_ID%202187.zip#Doc firmati_ID 2187/ID 2187 - MS EA - 6 - Allegato 3A Condizioni Generali.pdf.p7m",
-   "sha256": "093fbd50bd2552202f2ba59dc949e13564d0000a8dbc089776605a3bb67bd5e9",
-   "byte": 6416614,
-   "data_acquisizione": "2026-11-05T16:55:57+00:00",
-   "asset": "ID_2187_-_MS_EA_-_6_-_Allegato_3A_Condizioni_Generali.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2187/ID_2187_-_MS_EA_-_6_-_Allegato_3A_Condizioni_Generali.pdf.p7m"
   },
   {
    "iniziativa": "consip-2187",
@@ -3681,6 +3671,16 @@
    "data_acquisizione": "2026-11-05T16:56:18+00:00",
    "asset": "ID_2187_EA6_Risposte_chiarimenti_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2187/ID_2187_EA6_Risposte_chiarimenti_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2187",
+   "titolo": "ID2187 - MEA6 - PDF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2187%20-%20MEA6%20-%20PDF.zip",
+   "sha256": "d35e11871ad7fab27a951dd7c99043498eba3599334b96bb95dd4fcc6be5590f",
+   "byte": 6377496,
+   "data_acquisizione": "2026-11-05T16:56:49+00:00",
+   "asset": "ID2187_-_MEA6_-_PDF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2187/ID2187_-_MEA6_-_PDF.zip"
   },
   {
    "iniziativa": "consip-2187",
@@ -3884,6 +3884,16 @@
   },
   {
    "iniziativa": "consip-2212",
+   "titolo": "Contratti lotto2.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/Contratti%20lotto2.zip",
+   "sha256": "2032c9edb165f09c76fb1eca0aa23671f41c22da1eb643ed58b594dce2bdb053",
+   "byte": 5899750,
+   "data_acquisizione": "2026-11-05T17:25:38+00:00",
+   "asset": "Contratti_lotto2.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2212/Contratti_lotto2.zip"
+  },
+  {
+   "iniziativa": "consip-2212",
    "titolo": "Elenco verbali - ID 2212 lotti 1-2-3-4-5.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Elenco%20verbali%20-%20ID%202212%20lotti%201-2-3-4-5.pdf",
    "sha256": "ecb80c5ba9a2022952a4c3fbced61ba1567f7e1e86bedf824eac0e7e54e47dda",
@@ -4034,36 +4044,6 @@
   },
   {
    "iniziativa": "consip-2212",
-   "titolo": "ID 2212 Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2212%20-%20DOC%20NON%20UFFICIALE%20NEW.PDF.zip#PDF/ID 2212 Bando.pdf",
-   "sha256": "ef36208066afe692e28a972d74bbd4a5dfd03fb41863210d9ae1d7c2f402538c",
-   "byte": 11836301,
-   "data_acquisizione": "2026-11-05T17:27:35+00:00",
-   "asset": "ID_2212_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2212/ID_2212_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2212",
-   "titolo": "ID 2212 Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID2212%20-%20DOC%20UFFICIALE%20NEW.PDF.zip#ID 2212 Bando.pdf.p7m",
-   "sha256": "ad1da466b043e0f8c440c3e9842ea699430800ad200095f838518f221b9e9d34",
-   "byte": 11899066,
-   "data_acquisizione": "2026-11-05T17:26:26+00:00",
-   "asset": "ID2212_-_DOC_UFFICIALE_NEW.PDF.zip_ID_2212_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2212/ID2212_-_DOC_UFFICIALE_NEW.PDF.zip_ID_2212_Bando.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2212",
-   "titolo": "ID 2212 RTI ALMAVIVA Accordo Quadro Lotto 2 signed.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/Contratti%20lotto2.zip#ID 2212 RTI ALMAVIVA Accordo Quadro Lotto 2 signed.pdf",
-   "sha256": "2032c9edb165f09c76fb1eca0aa23671f41c22da1eb643ed58b594dce2bdb053",
-   "byte": 5899750,
-   "data_acquisizione": "2026-11-05T17:25:38+00:00",
-   "asset": "Contratti_lotto2.zip_ID_2212_RTI_ALMAVIVA_Accordo_Quadro_Lotto_2_signed.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2212/Contratti_lotto2.zip_ID_2212_RTI_ALMAVIVA_Accordo_Quadro_Lotto_2_signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2212",
    "titolo": "ID2212 - Chiarimenti - III tranche.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2212%20-%20Chiarimenti%20-%20III%20tranche.pdf",
    "sha256": "94c9c25e84d1170d2ed226d7eddd4eb4992a861e0d23cd89455950be03ad67c8",
@@ -4081,6 +4061,26 @@
    "data_acquisizione": "2026-11-05T17:26:20+00:00",
    "asset": "ID2212_-_Chiarimenti_-_III_tranche_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2212/ID2212_-_Chiarimenti_-_III_tranche_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2212",
+   "titolo": "ID2212 - DOC NON UFFICIALE NEW.PDF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2212%20-%20DOC%20NON%20UFFICIALE%20NEW.PDF.zip",
+   "sha256": "ef36208066afe692e28a972d74bbd4a5dfd03fb41863210d9ae1d7c2f402538c",
+   "byte": 11836301,
+   "data_acquisizione": "2026-11-05T17:27:35+00:00",
+   "asset": "ID2212_-_DOC_NON_UFFICIALE_NEW.PDF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2212/ID2212_-_DOC_NON_UFFICIALE_NEW.PDF.zip"
+  },
+  {
+   "iniziativa": "consip-2212",
+   "titolo": "ID2212 - DOC UFFICIALE NEW.PDF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID2212%20-%20DOC%20UFFICIALE%20NEW.PDF.zip",
+   "sha256": "ad1da466b043e0f8c440c3e9842ea699430800ad200095f838518f221b9e9d34",
+   "byte": 11899066,
+   "data_acquisizione": "2026-11-05T17:26:26+00:00",
+   "asset": "ID2212_-_DOC_UFFICIALE_NEW.PDF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2212/ID2212_-_DOC_UFFICIALE_NEW.PDF.zip"
   },
   {
    "iniziativa": "consip-2212",
@@ -4394,6 +4394,26 @@
   },
   {
    "iniziativa": "consip-2213",
+   "titolo": "ID 2213 - DOC NON UFFICIALE NEW5.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202213%20-%20DOC%20NON%20UFFICIALE%20NEW5.zip",
+   "sha256": "c47c1ad25bbd45fb39c6c5539dd11a39d359d13c0bf54442e383ce18a441d3de",
+   "byte": 16136415,
+   "data_acquisizione": "2026-11-05T16:48:38+00:00",
+   "asset": "ID_2213_-_DOC_NON_UFFICIALE_NEW5.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2213/ID_2213_-_DOC_NON_UFFICIALE_NEW5.zip"
+  },
+  {
+   "iniziativa": "consip-2213",
+   "titolo": "ID 2213 - DOC UFFICIALE NEW5.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202213%20-%20DOC%20UFFICIALE%20NEW5.zip",
+   "sha256": "12f57a786430797e4a56fc34bb63a2bfbdcf256d81d7a2c0b4ce3f3e74886640",
+   "byte": 16229269,
+   "data_acquisizione": "2026-11-05T16:46:10+00:00",
+   "asset": "ID_2213_-_DOC_UFFICIALE_NEW5.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2213/ID_2213_-_DOC_UFFICIALE_NEW5.zip"
+  },
+  {
+   "iniziativa": "consip-2213",
    "titolo": "ID 2213 - Errata corrige-signed.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202213%20-%20Errata%20corrige-signed.pdf",
    "sha256": "d68b94d8ae274eea94d0b484a109320c238590cf025460e0787322de6f8f1015",
@@ -4431,26 +4451,6 @@
    "data_acquisizione": "2026-11-05T16:48:49+00:00",
    "asset": "ID_2213_-_Gara_Public_Cloud_-_Avviso_di_rettifica_al_Bando.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2213/ID_2213_-_Gara_Public_Cloud_-_Avviso_di_rettifica_al_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2213",
-   "titolo": "ID 2213 - Gara Public Cloud - Bando GURI_NEW.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202213%20-%20DOC%20NON%20UFFICIALE%20NEW5.zip#ID 2213 - Gara Public Cloud - Bando GURI_NEW.pdf",
-   "sha256": "c47c1ad25bbd45fb39c6c5539dd11a39d359d13c0bf54442e383ce18a441d3de",
-   "byte": 16136415,
-   "data_acquisizione": "2026-11-05T16:48:38+00:00",
-   "asset": "ID_2213_-_DOC_NON_UFFICIALE_NEW5.zip_ID_2213_-_Gara_Public_Cloud_-_Bando_GURI_NEW.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2213/ID_2213_-_DOC_NON_UFFICIALE_NEW5.zip_ID_2213_-_Gara_Public_Cloud_-_Bando_GURI_NEW.pdf"
-  },
-  {
-   "iniziativa": "consip-2213",
-   "titolo": "ID 2213 - Gara Public Cloud - Bando GURI_NEW.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202213%20-%20DOC%20UFFICIALE%20NEW5.zip#Doc firmati_ID 2213/ID 2213 - Gara Public Cloud - Bando GURI_NEW.pdf.p7m",
-   "sha256": "12f57a786430797e4a56fc34bb63a2bfbdcf256d81d7a2c0b4ce3f3e74886640",
-   "byte": 16229269,
-   "data_acquisizione": "2026-11-05T16:46:10+00:00",
-   "asset": "ID_2213_-_Gara_Public_Cloud_-_Bando_GURI_NEW.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2213/ID_2213_-_Gara_Public_Cloud_-_Bando_GURI_NEW.pdf.p7m"
   },
   {
    "iniziativa": "consip-2213",
@@ -5104,16 +5104,6 @@
   },
   {
    "iniziativa": "consip-2275",
-   "titolo": "ID 2275 - AQSM3 - Accordo Quadro ex art 54 comma 4 lett a FASTWEB.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202275%20SYSTEM%20MANAGEMENT%20ED%203.zip#ID 2275 SYSTEM MANAGEMENT ED 3/ID 2275 - AQSM3 - Accordo Quadro ex art 54 comma 4 lett a FASTWEB.pdf",
-   "sha256": "abd7c477500d3dc349b45ac9c46e64b34d4132fb0438a9cf4c6a8c76539da5eb",
-   "byte": 16091523,
-   "data_acquisizione": "2026-11-05T16:07:08+00:00",
-   "asset": "ID_2275_-_AQSM3_-_Accordo_Quadro_ex_art_54_comma_4_lett_a_FASTWEB.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2275/ID_2275_-_AQSM3_-_Accordo_Quadro_ex_art_54_comma_4_lett_a_FASTWEB.pdf"
-  },
-  {
-   "iniziativa": "consip-2275",
    "titolo": "ID 2275 - AQSM3 - Chiarimenti.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202275%20-%20AQSM3%20-%20Chiarimenti.pdf",
    "sha256": "1ca6d02f2bb84c2eb21e23f47da82674ea75534d8cc473942e05d643d78be9a9",
@@ -5344,16 +5334,6 @@
   },
   {
    "iniziativa": "consip-2275",
-   "titolo": "ID 2275 AQ System Management 3 - Bando GURI.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202275%20AQSM3%20-%20DOC%20UFFICIALE%20NEW.zip#Doc PDF firmati/ID 2275 AQ System Management 3 - Bando GURI.pdf.p7m",
-   "sha256": "a518a9cdc8e0c61c3758da93bdd9e75c98a611f86b4ed28b1587dbc4bf29a02e",
-   "byte": 27136166,
-   "data_acquisizione": "2026-11-05T16:05:58+00:00",
-   "asset": "ID_2275_AQ_System_Management_3_-_Bando_GURI.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2275/ID_2275_AQ_System_Management_3_-_Bando_GURI.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2275",
    "titolo": "ID 2275 AQ System Management 3 - Condizioni di fornitura.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202275%20AQ%20System%20Management%203%20-%20Condizioni%20di%20fornitura.pdf",
    "sha256": "9d3ade94c344e1ecfeba3f46919aa59204a099ef21e2c3899b748c373bfb0f9b",
@@ -5394,6 +5374,16 @@
   },
   {
    "iniziativa": "consip-2275",
+   "titolo": "ID 2275 AQSM3 - DOC UFFICIALE NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202275%20AQSM3%20-%20DOC%20UFFICIALE%20NEW.zip",
+   "sha256": "a518a9cdc8e0c61c3758da93bdd9e75c98a611f86b4ed28b1587dbc4bf29a02e",
+   "byte": 27136166,
+   "data_acquisizione": "2026-11-05T16:05:58+00:00",
+   "asset": "ID_2275_AQSM3_-_DOC_UFFICIALE_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2275/ID_2275_AQSM3_-_DOC_UFFICIALE_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2275",
    "titolo": "ID 2275 AQSM3 - Determina a contrarre.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202275%20AQSM3%20-%20Determina%20a%20contrarre.pdf",
    "sha256": "d7550b824dc793b6521c855ee71861f97843228d57f2ca9e96380ef58bd6a3a4",
@@ -5421,6 +5411,16 @@
    "data_acquisizione": "2026-11-05T16:07:02+00:00",
    "asset": "ID_2275_SYSTEM_MANAGEMENT_3_ADDENDUM_CONTRATTUALE_INCREMENTO_MASSIMALE.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2275/ID_2275_SYSTEM_MANAGEMENT_3_ADDENDUM_CONTRATTUALE_INCREMENTO_MASSIMALE.zip"
+  },
+  {
+   "iniziativa": "consip-2275",
+   "titolo": "ID 2275 SYSTEM MANAGEMENT ED 3.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202275%20SYSTEM%20MANAGEMENT%20ED%203.zip",
+   "sha256": "abd7c477500d3dc349b45ac9c46e64b34d4132fb0438a9cf4c6a8c76539da5eb",
+   "byte": 16091523,
+   "data_acquisizione": "2026-11-05T16:07:08+00:00",
+   "asset": "ID_2275_SYSTEM_MANAGEMENT_ED_3.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2275/ID_2275_SYSTEM_MANAGEMENT_ED_3.zip"
   },
   {
    "iniziativa": "consip-2275",
@@ -5624,33 +5624,23 @@
   },
   {
    "iniziativa": "consip-2296",
-   "titolo": "ID 2296 - Gara Sicurezza da remoto - Accordo Quadro - Lotto 1.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202296%20Servizi%20di%20Sicurezza%20da%20Remoto_0.zip#ID 2296 Servizi di Sicurezza da Remoto/ID 2296 - Gara Sicurezza da remoto - Accordo Quadro - Lotto 1.pdf",
-   "sha256": "e818efdee43c959ce87718225d1c943f02c26994f093216e408c4cd7cc162439",
-   "byte": 41892034,
-   "data_acquisizione": "2026-11-05T15:54:06+00:00",
-   "asset": "ID_2296_-_Gara_Sicurezza_da_remoto_-_Accordo_Quadro_-_Lotto_1.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2296/ID_2296_-_Gara_Sicurezza_da_remoto_-_Accordo_Quadro_-_Lotto_1.pdf"
-  },
-  {
-   "iniziativa": "consip-2296",
-   "titolo": "ID 2296 - Gara Sicurezza da remoto - Bando GURI.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202296%20-%20Documentazione%20di%20gara%20-%20NEW.zip#ID 2296 - Gara Sicurezza da remoto - Bando GURI.pdf",
-   "sha256": "7170e78b9569e9aa0e5afc05756e9607bf1004f25c861c22062f83178466bdba",
-   "byte": 29778072,
-   "data_acquisizione": "2026-11-05T15:53:39+00:00",
-   "asset": "ID_2296_-_Documentazione_di_gara_-_NEW.zip_ID_2296_-_Gara_Sicurezza_da_remoto_-_Bando_GURI.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2296/ID_2296_-_Documentazione_di_gara_-_NEW.zip_ID_2296_-_Gara_Sicurezza_da_remoto_-_Bando_GURI.pdf"
-  },
-  {
-   "iniziativa": "consip-2296",
-   "titolo": "ID 2296 - Gara Sicurezza da remoto - Bando GURI.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202296%20-%20Doc%20new.zip#Doc PDF/ID 2296 - Gara Sicurezza da remoto - Bando GURI.pdf.p7m",
+   "titolo": "ID 2296 - Doc new.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202296%20-%20Doc%20new.zip",
    "sha256": "19ee01f86589d8ee25a90d9986720699ee13b313460c0acb37ed468ba8bd9b5f",
    "byte": 29966221,
    "data_acquisizione": "2026-11-05T15:52:46+00:00",
-   "asset": "ID_2296_-_Gara_Sicurezza_da_remoto_-_Bando_GURI.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2296/ID_2296_-_Gara_Sicurezza_da_remoto_-_Bando_GURI.pdf.p7m"
+   "asset": "ID_2296_-_Doc_new.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2296/ID_2296_-_Doc_new.zip"
+  },
+  {
+   "iniziativa": "consip-2296",
+   "titolo": "ID 2296 - Documentazione di gara - NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202296%20-%20Documentazione%20di%20gara%20-%20NEW.zip",
+   "sha256": "7170e78b9569e9aa0e5afc05756e9607bf1004f25c861c22062f83178466bdba",
+   "byte": 29778072,
+   "data_acquisizione": "2026-11-05T15:53:39+00:00",
+   "asset": "ID_2296_-_Documentazione_di_gara_-_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2296/ID_2296_-_Documentazione_di_gara_-_NEW.zip"
   },
   {
    "iniziativa": "consip-2296",
@@ -5751,6 +5741,16 @@
    "data_acquisizione": "2026-11-05T15:53:13+00:00",
    "asset": "ID_2296_Avviso_di_rettifica_e_proroga_termini_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2296/ID_2296_Avviso_di_rettifica_e_proroga_termini_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2296",
+   "titolo": "ID 2296 Servizi di Sicurezza da Remoto_0.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202296%20Servizi%20di%20Sicurezza%20da%20Remoto_0.zip",
+   "sha256": "e818efdee43c959ce87718225d1c943f02c26994f093216e408c4cd7cc162439",
+   "byte": 41892034,
+   "data_acquisizione": "2026-11-05T15:54:06+00:00",
+   "asset": "ID_2296_Servizi_di_Sicurezza_da_Remoto_0.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2296/ID_2296_Servizi_di_Sicurezza_da_Remoto_0.zip"
   },
   {
    "iniziativa": "consip-2296",
@@ -6084,36 +6084,6 @@
   },
   {
    "iniziativa": "consip-2297",
-   "titolo": "ID 2297 - Public Cloud SaaS Princo - Accordo quadro CONVERGE_signed.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202297%20AQ%20Public%20Cloud%20SaaS%20-%20Produttivit%C3%A0%20Individuale%20e%20Collaboration.zip#ID 2297 AQ Public Cloud SaaS - Produttività Individuale e Collaboration/lotto 1/ID 2297 - Public Cloud SaaS Princo - Accordo quadro CONVERGE_signed.pdf",
-   "sha256": "6eb3e186bfbe0e6a3418d3ff672cf64a0744df54c64030b6f8b09b6abe8ab465",
-   "byte": 9436533,
-   "data_acquisizione": "2026-11-05T17:01:51+00:00",
-   "asset": "ID_2297_-_Public_Cloud_SaaS_Princo_-_Accordo_quadro_CONVERGE_signed.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_-_Public_Cloud_SaaS_Princo_-_Accordo_quadro_CONVERGE_signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2297",
-   "titolo": "ID 2297 - Public Cloud SaaS Princo - Allegato 1 - Capitolato Tecnico Generale_new.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2297%20-%20Public%20Cloud%20SaaS%20Princo%20-%20Nuovi%20Allegati%20PDF.zip#ID 2297 - Public Cloud SaaS Princo - Allegato 1 - Capitolato Tecnico Generale_new.pdf",
-   "sha256": "9381a0f8de9acd277952222dbdbde3aee54f7c4ecbe0266f32b421877123a7c1",
-   "byte": 3136450,
-   "data_acquisizione": "2026-11-05T17:02:02+00:00",
-   "asset": "ID2297_-_Public_Cloud_SaaS_Princo_-_Nuovi_Allegati_PDF.zip_ID_2297_-_Public_Cloud_SaaS_Princo_-_Allegato_1_-_Capitolato_Tecnico_Generale_new.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID2297_-_Public_Cloud_SaaS_Princo_-_Nuovi_Allegati_PDF.zip_ID_2297_-_Public_Cloud_SaaS_Princo_-_Allegato_1_-_Capitolato_Tecnico_Generale_new.pdf"
-  },
-  {
-   "iniziativa": "consip-2297",
-   "titolo": "ID 2297 - Public Cloud SaaS Princo - Allegato 1 - Capitolato Tecnico Generale_new.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202297%20-Public%20Cloud%20Saas%20Princo%20-%20Nuovi%20Allegati%20Firmati.zip#NuoviAllegati/ID 2297 - Public Cloud SaaS Princo - Allegato 1 - Capitolato Tecnico Generale_new.pdf.p7m",
-   "sha256": "86ba1b2a70cc509546153498111c5b9b4839d75d7fea3a1af8fcf49d440b831d",
-   "byte": 3158226,
-   "data_acquisizione": "2026-11-05T16:59:28+00:00",
-   "asset": "ID_2297_-_Public_Cloud_SaaS_Princo_-_Allegato_1_-_Capitolato_Tecnico_Generale_new.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_-_Public_Cloud_SaaS_Princo_-_Allegato_1_-_Capitolato_Tecnico_Generale_new.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2297",
    "titolo": "ID 2297 - Public Cloud SaaS Princo - Allegato 1 - Capitolato Tecnico Generale_new_postEC.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202297%20-%20Public%20Cloud%20SaaS%20Princo%20-%20Allegato%201%20-%20Capitolato%20Tecnico%20Generale_new_postEC.pdf",
    "sha256": "1afef66ed3ec02d1876930a4595733a51d8bdf530202337de2fed31f21b2bea4",
@@ -6231,26 +6201,6 @@
    "data_acquisizione": "2026-11-05T16:57:58+00:00",
    "asset": "ID_2297_-_Public_Cloud_SaaS_Princo_-_Avviso_di_rettifica_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_-_Public_Cloud_SaaS_Princo_-_Avviso_di_rettifica_signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2297",
-   "titolo": "ID 2297 - Public Cloud SaaS Princo - Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202297%20DOC%20NON%20UFF.zip#da firmare/ID 2297 - Public Cloud SaaS Princo - Bando.pdf",
-   "sha256": "591dc58091a33cf77ea2004a1d0243e26089a6198a2f4d57727888f00d00f170",
-   "byte": 18413866,
-   "data_acquisizione": "2026-11-05T17:01:56+00:00",
-   "asset": "ID_2297_-_Public_Cloud_SaaS_Princo_-_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_-_Public_Cloud_SaaS_Princo_-_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2297",
-   "titolo": "ID 2297 - Public Cloud SaaS Princo - Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202297%20DOC%20UFF.zip#Doc firmati_ID 2297/ID 2297 - Public Cloud SaaS Princo - Bando.pdf.p7m",
-   "sha256": "43cd1bb87c64e23d8dc38cf34ce17b72e2ef4baa3b8dc520587dc7c3501d7bc9",
-   "byte": 18532007,
-   "data_acquisizione": "2026-11-05T16:59:33+00:00",
-   "asset": "ID_2297_-_Public_Cloud_SaaS_Princo_-_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_-_Public_Cloud_SaaS_Princo_-_Bando.pdf.p7m"
   },
   {
    "iniziativa": "consip-2297",
@@ -6561,6 +6511,56 @@
    "data_acquisizione": "2026-11-05T16:59:22+00:00",
    "asset": "ID_2297_--_RAPPORTO_DI_GENERE.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_--_RAPPORTO_DI_GENERE.zip"
+  },
+  {
+   "iniziativa": "consip-2297",
+   "titolo": "ID 2297 -Public Cloud Saas Princo - Nuovi Allegati Firmati.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202297%20-Public%20Cloud%20Saas%20Princo%20-%20Nuovi%20Allegati%20Firmati.zip",
+   "sha256": "86ba1b2a70cc509546153498111c5b9b4839d75d7fea3a1af8fcf49d440b831d",
+   "byte": 3158226,
+   "data_acquisizione": "2026-11-05T16:59:28+00:00",
+   "asset": "ID_2297_-Public_Cloud_Saas_Princo_-_Nuovi_Allegati_Firmati.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_-Public_Cloud_Saas_Princo_-_Nuovi_Allegati_Firmati.zip"
+  },
+  {
+   "iniziativa": "consip-2297",
+   "titolo": "ID 2297 AQ Public Cloud SaaS - Produttività Individuale e Collaboration.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202297%20AQ%20Public%20Cloud%20SaaS%20-%20Produttivit%C3%A0%20Individuale%20e%20Collaboration.zip",
+   "sha256": "6eb3e186bfbe0e6a3418d3ff672cf64a0744df54c64030b6f8b09b6abe8ab465",
+   "byte": 9436533,
+   "data_acquisizione": "2026-11-05T17:01:51+00:00",
+   "asset": "ID_2297_AQ_Public_Cloud_SaaS_-_Produttivita_Individuale_e_Collaboration.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_AQ_Public_Cloud_SaaS_-_Produttivita_Individuale_e_Collaboration.zip"
+  },
+  {
+   "iniziativa": "consip-2297",
+   "titolo": "ID 2297 DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202297%20DOC%20NON%20UFF.zip",
+   "sha256": "591dc58091a33cf77ea2004a1d0243e26089a6198a2f4d57727888f00d00f170",
+   "byte": 18413866,
+   "data_acquisizione": "2026-11-05T17:01:56+00:00",
+   "asset": "ID_2297_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2297",
+   "titolo": "ID 2297 DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202297%20DOC%20UFF.zip",
+   "sha256": "43cd1bb87c64e23d8dc38cf34ce17b72e2ef4baa3b8dc520587dc7c3501d7bc9",
+   "byte": 18532007,
+   "data_acquisizione": "2026-11-05T16:59:33+00:00",
+   "asset": "ID_2297_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID_2297_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2297",
+   "titolo": "ID2297 - Public Cloud SaaS Princo - Nuovi Allegati PDF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2297%20-%20Public%20Cloud%20SaaS%20Princo%20-%20Nuovi%20Allegati%20PDF.zip",
+   "sha256": "9381a0f8de9acd277952222dbdbde3aee54f7c4ecbe0266f32b421877123a7c1",
+   "byte": 3136450,
+   "data_acquisizione": "2026-11-05T17:02:02+00:00",
+   "asset": "ID2297_-_Public_Cloud_SaaS_Princo_-_Nuovi_Allegati_PDF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2297/ID2297_-_Public_Cloud_SaaS_Princo_-_Nuovi_Allegati_PDF.zip"
   },
   {
    "iniziativa": "consip-2297",
@@ -7184,26 +7184,6 @@
   },
   {
    "iniziativa": "consip-2365",
-   "titolo": "ID 2365 Bando_NEW.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20DOC%20NON%20UFF%20NEW3.zip#ID 2365 Bando_NEW.pdf",
-   "sha256": "8fbc002aaceadbf862e7bbd4403ee07ba4f26f9390acd5756822b84bfe5c3444",
-   "byte": 14384203,
-   "data_acquisizione": "2026-11-05T16:38:10+00:00",
-   "asset": "ID_2365_DOC_NON_UFF_NEW3.zip_ID_2365_Bando_NEW.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2365/ID_2365_DOC_NON_UFF_NEW3.zip_ID_2365_Bando_NEW.pdf"
-  },
-  {
-   "iniziativa": "consip-2365",
-   "titolo": "ID 2365 Bando_NEW.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202365%20DOC%20UFF%20NEW3.zip#ID 2365 Bando_NEW.pdf.p7m",
-   "sha256": "7f2b96c5114123651fc2aa13d30e757649f074018e07ac0fff109be885862c7c",
-   "byte": 14497252,
-   "data_acquisizione": "2026-11-05T16:38:08+00:00",
-   "asset": "ID_2365_DOC_UFF_NEW3.zip_ID_2365_Bando_NEW.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2365/ID_2365_DOC_UFF_NEW3.zip_ID_2365_Bando_NEW.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2365",
    "titolo": "ID 2365 Chiarimenti.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20Chiarimenti.pdf",
    "sha256": "d8d0247afc1feeaac488124f7adc5592073d2abc81ba5ff14d4051b43f07bd20",
@@ -7284,6 +7264,26 @@
   },
   {
    "iniziativa": "consip-2365",
+   "titolo": "ID 2365 DOC NON UFF NEW3.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20DOC%20NON%20UFF%20NEW3.zip",
+   "sha256": "8fbc002aaceadbf862e7bbd4403ee07ba4f26f9390acd5756822b84bfe5c3444",
+   "byte": 14384203,
+   "data_acquisizione": "2026-11-05T16:38:10+00:00",
+   "asset": "ID_2365_DOC_NON_UFF_NEW3.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2365/ID_2365_DOC_NON_UFF_NEW3.zip"
+  },
+  {
+   "iniziativa": "consip-2365",
+   "titolo": "ID 2365 DOC UFF NEW3.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202365%20DOC%20UFF%20NEW3.zip",
+   "sha256": "7f2b96c5114123651fc2aa13d30e757649f074018e07ac0fff109be885862c7c",
+   "byte": 14497252,
+   "data_acquisizione": "2026-11-05T16:38:08+00:00",
+   "asset": "ID_2365_DOC_UFF_NEW3.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2365/ID_2365_DOC_UFF_NEW3.zip"
+  },
+  {
+   "iniziativa": "consip-2365",
    "titolo": "ID 2365 Determina a contrarre.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20Determina%20a%20contrarre.pdf",
    "sha256": "e6b23322723a6d7f165f1372759d3ed56b66a73c3d252abae91287ffede8cc34",
@@ -7314,13 +7314,13 @@
   },
   {
    "iniziativa": "consip-2365",
-   "titolo": "ID 2365_Accordo Quadro_DEDALUS_L1.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20Sanit%C3%A0%20digitale%20%20Sistemi%20informativi%20sanitari.zip#ID 2365 Sanità digitale  Sistemi informativi sanitari/lotto 1/ID 2365_Accordo Quadro_DEDALUS_L1.pdf",
+   "titolo": "ID 2365 Sanità digitale  Sistemi informativi sanitari.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202365%20Sanit%C3%A0%20digitale%20%20Sistemi%20informativi%20sanitari.zip",
    "sha256": "52d4d9a5b1ee0b53fb3f5f8f9f9542caa62b5b2243ddd3f7332bff118b5da4c7",
    "byte": 23022913,
    "data_acquisizione": "2026-11-05T16:38:10+00:00",
-   "asset": "ID_2365_Accordo_Quadro_DEDALUS_L1.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2365/ID_2365_Accordo_Quadro_DEDALUS_L1.pdf"
+   "asset": "ID_2365_Sanita_digitale_Sistemi_informativi_sanitari.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2365/ID_2365_Sanita_digitale_Sistemi_informativi_sanitari.zip"
   },
   {
    "iniziativa": "consip-2365",
@@ -7724,43 +7724,13 @@
   },
   {
    "iniziativa": "consip-2366",
-   "titolo": "ID 2366 Bando - NEW.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202366%20DOC%20NON%20UFF%20NEW.zip#ID 2366  PDF/ID 2366 Bando - NEW.pdf",
-   "sha256": "488cbb66982339a7038d38215035e2a7943ffeab68f89c02248a443c445b5e84",
-   "byte": 17335791,
-   "data_acquisizione": "2026-11-05T16:04:17+00:00",
-   "asset": "ID_2366_Bando_-_NEW.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_Bando_-_NEW.pdf"
-  },
-  {
-   "iniziativa": "consip-2366",
-   "titolo": "ID 2366 Bando - NEW.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202366%20DOC%20NON%20UFF%20NEW%202.zip#ID 2366  PDF/ID 2366 Bando - NEW.pdf",
-   "sha256": "f775153346ec5f7a0ccf1fd6953409f5c1772211ab4d9d6bcab3966c417c6e1f",
-   "byte": 17335921,
-   "data_acquisizione": "2026-11-05T16:04:11+00:00",
-   "asset": "f775153346ec_ID_2366_Bando_-_NEW.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/f775153346ec_ID_2366_Bando_-_NEW.pdf"
-  },
-  {
-   "iniziativa": "consip-2366",
-   "titolo": "ID 2366 Bando - NEW.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202366%20DOC%20UFF%20NEW%202.zip#ID 2366  PDF-firmati/ID 2366 Bando - NEW.pdf.p7m",
-   "sha256": "c9ee5cbb8443d5c38377581ef22f7197655b922c7593b76418d27cc74af1faa9",
-   "byte": 17496695,
-   "data_acquisizione": "2026-11-05T16:02:19+00:00",
-   "asset": "ID_2366_Bando_-_NEW.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_Bando_-_NEW.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2366",
-   "titolo": "ID 2366 Bando - NEW.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202366%20DOC%20UFF%20NEW.zip#ID 2366  PDF-firmati/ID 2366 Bando - NEW.pdf.p7m",
-   "sha256": "d6587c07d1c8b60696cbe5b7efc6829823b5b030a25d1fa65e5629047c65dfef",
-   "byte": 17466452,
-   "data_acquisizione": "2026-11-05T16:02:24+00:00",
-   "asset": "d6587c07d1c8_ID_2366_Bando_-_NEW.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/d6587c07d1c8_ID_2366_Bando_-_NEW.pdf.p7m"
+   "titolo": "ID 2366 CONTRATTI AQ FIRMATI L-1-2-3-4.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202366%20CONTRATTI%20AQ%20FIRMATI%20L-1-2-3-4.zip",
+   "sha256": "86a8f638872db1230947837a0ead98515e20c3fd2e7150aff4fc769c6ee02d71",
+   "byte": 16224351,
+   "data_acquisizione": "2026-11-05T16:02:08+00:00",
+   "asset": "ID_2366_CONTRATTI_AQ_FIRMATI_L-1-2-3-4.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_CONTRATTI_AQ_FIRMATI_L-1-2-3-4.zip"
   },
   {
    "iniziativa": "consip-2366",
@@ -7781,6 +7751,46 @@
    "data_acquisizione": "2026-11-05T16:02:14+00:00",
    "asset": "ID_2366_Chiarimenti_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_Chiarimenti_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2366",
+   "titolo": "ID 2366 DOC NON UFF NEW 2.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202366%20DOC%20NON%20UFF%20NEW%202.zip",
+   "sha256": "f775153346ec5f7a0ccf1fd6953409f5c1772211ab4d9d6bcab3966c417c6e1f",
+   "byte": 17335921,
+   "data_acquisizione": "2026-11-05T16:04:11+00:00",
+   "asset": "ID_2366_DOC_NON_UFF_NEW_2.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_DOC_NON_UFF_NEW_2.zip"
+  },
+  {
+   "iniziativa": "consip-2366",
+   "titolo": "ID 2366 DOC NON UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202366%20DOC%20NON%20UFF%20NEW.zip",
+   "sha256": "488cbb66982339a7038d38215035e2a7943ffeab68f89c02248a443c445b5e84",
+   "byte": 17335791,
+   "data_acquisizione": "2026-11-05T16:04:17+00:00",
+   "asset": "ID_2366_DOC_NON_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_DOC_NON_UFF_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2366",
+   "titolo": "ID 2366 DOC UFF NEW 2.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202366%20DOC%20UFF%20NEW%202.zip",
+   "sha256": "c9ee5cbb8443d5c38377581ef22f7197655b922c7593b76418d27cc74af1faa9",
+   "byte": 17496695,
+   "data_acquisizione": "2026-11-05T16:02:19+00:00",
+   "asset": "ID_2366_DOC_UFF_NEW_2.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_DOC_UFF_NEW_2.zip"
+  },
+  {
+   "iniziativa": "consip-2366",
+   "titolo": "ID 2366 DOC UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202366%20DOC%20UFF%20NEW.zip",
+   "sha256": "d6587c07d1c8b60696cbe5b7efc6829823b5b030a25d1fa65e5629047c65dfef",
+   "byte": 17466452,
+   "data_acquisizione": "2026-11-05T16:02:24+00:00",
+   "asset": "ID_2366_DOC_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_DOC_UFF_NEW.zip"
   },
   {
    "iniziativa": "consip-2366",
@@ -7851,16 +7861,6 @@
    "data_acquisizione": "2026-11-05T16:02:40+00:00",
    "asset": "ID_2366_Richieste_Chiarimenti_TRANCHE_3_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_Richieste_Chiarimenti_TRANCHE_3_signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2366",
-   "titolo": "ID 2366_Accordo Quadro_ACCENTURE_L1_signed.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202366%20CONTRATTI%20AQ%20FIRMATI%20L-1-2-3-4.zip#ID 2366_Accordo Quadro_ACCENTURE_L1_signed.pdf",
-   "sha256": "86a8f638872db1230947837a0ead98515e20c3fd2e7150aff4fc769c6ee02d71",
-   "byte": 16224351,
-   "data_acquisizione": "2026-11-05T16:02:08+00:00",
-   "asset": "ID_2366_CONTRATTI_AQ_FIRMATI_L-1-2-3-4.zip_ID_2366_Accordo_Quadro_ACCENTURE_L1_signed.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2366/ID_2366_CONTRATTI_AQ_FIRMATI_L-1-2-3-4.zip_ID_2366_Accordo_Quadro_ACCENTURE_L1_signed.pdf"
   },
   {
    "iniziativa": "consip-2366",
@@ -8134,26 +8134,6 @@
   },
   {
    "iniziativa": "consip-2425",
-   "titolo": "Bando di gara.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202425%20DOCUMENTAZIONE%20NON%20UFF%20NEW.pdf.zip#documentazione_new_pdf/Bando di gara.pdf",
-   "sha256": "561f0f967fb87f194337a881df137b7a5042e31f577584ad940dc3b73ff3859a",
-   "byte": 7733381,
-   "data_acquisizione": "2026-11-05T15:50:08+00:00",
-   "asset": "Bando_di_gara.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2425/Bando_di_gara.pdf"
-  },
-  {
-   "iniziativa": "consip-2425",
-   "titolo": "Bando di gara.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202425%20DOCUMENTAZIONE%20UFF%20NEW.zip#ID 2425 documentazione NEW pdf_firmata/Bando di gara.pdf.p7m",
-   "sha256": "5f002865a2e686731d8f80f398de4ca9618cfa4d1f0189b092a32d069ffa72d9",
-   "byte": 8073558,
-   "data_acquisizione": "2026-11-05T15:48:17+00:00",
-   "asset": "Bando_di_gara.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2425/Bando_di_gara.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2425",
    "titolo": "CONSIP.CONSIP_PROT.NOMINA COMMISSIONI.0000081.13-06-2023-R_signed_signed_signed ID 2425.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/CONSIP.CONSIP_PROT.NOMINA%20COMMISSIONI.0000081.13-06-2023-R_signed_signed_signed%20ID%202425.pdf",
    "sha256": "9d96fe04a90cb1abbce815c36a46548c4e812ddd65ea52dafedec4c381904064",
@@ -8171,6 +8151,16 @@
    "data_acquisizione": "2026-11-05T15:47:14+00:00",
    "asset": "CONSIP.CONSIP_PROT.NOMINA_COMMISSIONI.0000087.17-06-2022-R_signed_signed_signed_signed_signed_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2425/CONSIP.CONSIP_PROT.NOMINA_COMMISSIONI.0000087.17-06-2022-R_signed_signed_signed_signed_signed_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2425",
+   "titolo": "Contratti lotti 2-3.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Contratti%20lotti%202-3.zip",
+   "sha256": "ed0360db7fb874918549945e59f6ef6341204fd959e4557fdf47533a785cf563",
+   "byte": 11134136,
+   "data_acquisizione": "2026-11-05T15:49:05+00:00",
+   "asset": "Contratti_lotti_2-3.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2425/Contratti_lotti_2-3.zip"
   },
   {
    "iniziativa": "consip-2425",
@@ -8434,6 +8424,26 @@
   },
   {
    "iniziativa": "consip-2425",
+   "titolo": "ID 2425 DOCUMENTAZIONE NON UFF NEW.pdf.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202425%20DOCUMENTAZIONE%20NON%20UFF%20NEW.pdf.zip",
+   "sha256": "561f0f967fb87f194337a881df137b7a5042e31f577584ad940dc3b73ff3859a",
+   "byte": 7733381,
+   "data_acquisizione": "2026-11-05T15:50:08+00:00",
+   "asset": "ID_2425_DOCUMENTAZIONE_NON_UFF_NEW.pdf.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2425/ID_2425_DOCUMENTAZIONE_NON_UFF_NEW.pdf.zip"
+  },
+  {
+   "iniziativa": "consip-2425",
+   "titolo": "ID 2425 DOCUMENTAZIONE UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202425%20DOCUMENTAZIONE%20UFF%20NEW.zip",
+   "sha256": "5f002865a2e686731d8f80f398de4ca9618cfa4d1f0189b092a32d069ffa72d9",
+   "byte": 8073558,
+   "data_acquisizione": "2026-11-05T15:48:17+00:00",
+   "asset": "ID_2425_DOCUMENTAZIONE_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2425/ID_2425_DOCUMENTAZIONE_UFF_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2425",
    "titolo": "ID 2425 _AQ PC Portatili_Avviso aggiudicazione.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202425%20_AQ%20PC%20Portatili_Avviso%20aggiudicazione.pdf",
    "sha256": "0ab5a2c8990f26fd057d7a6cdf28fd472520610861c193644085ccabd47bef69",
@@ -8551,16 +8561,6 @@
    "data_acquisizione": "2026-11-05T15:48:49+00:00",
    "asset": "ID2425_-_PC_Portatili_1_-_V_tranche_Chiarimenti_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2425/ID2425_-_PC_Portatili_1_-_V_tranche_Chiarimenti_signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2425",
-   "titolo": "ID2425 ACCORDO QUADRO LOTTO 2 BELLUCCI.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Contratti%20lotti%202-3.zip#lotto 2/ID2425 ACCORDO QUADRO LOTTO 2 BELLUCCI.pdf",
-   "sha256": "ed0360db7fb874918549945e59f6ef6341204fd959e4557fdf47533a785cf563",
-   "byte": 11134136,
-   "data_acquisizione": "2026-11-05T15:49:05+00:00",
-   "asset": "ID2425_ACCORDO_QUADRO_LOTTO_2_BELLUCCI.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2425/ID2425_ACCORDO_QUADRO_LOTTO_2_BELLUCCI.pdf"
   },
   {
    "iniziativa": "consip-2425",
@@ -8754,13 +8754,33 @@
   },
   {
    "iniziativa": "consip-2452",
-   "titolo": "ID 2452 - TM9 - All.10 - Schema giustificativi anomalia costi MdO e sicurezza.docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202452%20-%20MODULI%20DI%20DICHIARAZIONE.zip#ID 2452 - MODULI DI DICHIARAZIONE/ID 2452 - TM9 - All.10 - Schema giustificativi anomalia costi MdO e sicurezza.docx",
+   "titolo": "ID 2452 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202452%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "a50eb65f5fe9bfc1047f539e3d9f78a6519f11e56794b27116926a1e48c9dc71",
+   "byte": 15495401,
+   "data_acquisizione": "2026-11-05T17:16:49+00:00",
+   "asset": "ID_2452_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2452/ID_2452_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2452",
+   "titolo": "ID 2452 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202452%20-%20DOC%20UFF.zip",
+   "sha256": "0ab74107a630c3db3da0623a39adff459c08fd646d8bfa47ce6cbc2f73919a9d",
+   "byte": 15602388,
+   "data_acquisizione": "2026-11-05T17:15:45+00:00",
+   "asset": "ID_2452_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2452/ID_2452_-_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2452",
+   "titolo": "ID 2452 - MODULI DI DICHIARAZIONE.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202452%20-%20MODULI%20DI%20DICHIARAZIONE.zip",
    "sha256": "5191ad5e42fe6690db02410b2f23f02ef54205d09976e6251d5fa007b7a9206d",
    "byte": 550483,
    "data_acquisizione": "2026-11-05T17:16:54+00:00",
-   "asset": "ID_2452_-_TM9_-_All.10_-_Schema_giustificativi_anomalia_costi_MdO_e_sicurezza.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2452/ID_2452_-_TM9_-_All.10_-_Schema_giustificativi_anomalia_costi_MdO_e_sicurezza.docx"
+   "asset": "ID_2452_-_MODULI_DI_DICHIARAZIONE.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2452/ID_2452_-_MODULI_DI_DICHIARAZIONE.zip"
   },
   {
    "iniziativa": "consip-2452",
@@ -8821,26 +8841,6 @@
    "data_acquisizione": "2026-11-05T17:15:51+00:00",
    "asset": "ID_2452_-_TM9_-_Avviso_di_proroga_dei_termini_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2452/ID_2452_-_TM9_-_Avviso_di_proroga_dei_termini_signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2452",
-   "titolo": "ID 2452 - TM9 - Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202452%20-%20DOC%20NON%20UFF.zip#ID 2452 - TM9 - Bando.pdf",
-   "sha256": "a50eb65f5fe9bfc1047f539e3d9f78a6519f11e56794b27116926a1e48c9dc71",
-   "byte": 15495401,
-   "data_acquisizione": "2026-11-05T17:16:49+00:00",
-   "asset": "ID_2452_-_DOC_NON_UFF.zip_ID_2452_-_TM9_-_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2452/ID_2452_-_DOC_NON_UFF.zip_ID_2452_-_TM9_-_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2452",
-   "titolo": "ID 2452 - TM9 - Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202452%20-%20DOC%20UFF.zip#Doc firmati ID 2452/ID 2452 - TM9 - Bando.pdf.p7m",
-   "sha256": "0ab74107a630c3db3da0623a39adff459c08fd646d8bfa47ce6cbc2f73919a9d",
-   "byte": 15602388,
-   "data_acquisizione": "2026-11-05T17:15:45+00:00",
-   "asset": "ID_2452_-_TM9_-_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2452/ID_2452_-_TM9_-_Bando.pdf.p7m"
   },
   {
    "iniziativa": "consip-2452",
@@ -9174,6 +9174,26 @@
   },
   {
    "iniziativa": "consip-2480",
+   "titolo": "DOC NON UFF - ID 2480.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF%20-%20ID%202480.zip",
+   "sha256": "54de7ebe995012b5b7866bd53daf6013dbc89c73e2f3bf2b596a619716627c97",
+   "byte": 20059353,
+   "data_acquisizione": "2026-11-05T17:13:38+00:00",
+   "asset": "DOC_NON_UFF_-_ID_2480.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2480/DOC_NON_UFF_-_ID_2480.zip"
+  },
+  {
+   "iniziativa": "consip-2480",
+   "titolo": "DOC UFF - ID 2480.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20-%20ID%202480.zip",
+   "sha256": "fdb18188e89b4c45bb1dff75850eaf573e00f99844c3c0c97a89aa1e71fd878a",
+   "byte": 20222996,
+   "data_acquisizione": "2026-11-05T17:13:11+00:00",
+   "asset": "DOC_UFF_-_ID_2480.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2480/DOC_UFF_-_ID_2480.zip"
+  },
+  {
+   "iniziativa": "consip-2480",
    "titolo": "Elenco verbali - ID 2480.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Elenco%20verbali%20-%20ID%202480.pdf",
    "sha256": "ab1d55cf098fd2dc08dd333fb9fb69301e738c59790cc69cedd91dfd0fab6214",
@@ -9224,36 +9244,6 @@
   },
   {
    "iniziativa": "consip-2480",
-   "titolo": "ID 2480 - Multibrand 5 - Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF%20-%20ID%202480.zip#Documentazione pdf 30032022/ID 2480 - Multibrand 5 - Bando.pdf",
-   "sha256": "54de7ebe995012b5b7866bd53daf6013dbc89c73e2f3bf2b596a619716627c97",
-   "byte": 20059353,
-   "data_acquisizione": "2026-11-05T17:13:38+00:00",
-   "asset": "ID_2480_-_Multibrand_5_-_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2480/ID_2480_-_Multibrand_5_-_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2480",
-   "titolo": "ID 2480 - Multibrand 5 - Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20-%20ID%202480.zip#Doc firmati_ID 2480/ID 2480 - Multibrand 5 - Bando.pdf.p7m",
-   "sha256": "fdb18188e89b4c45bb1dff75850eaf573e00f99844c3c0c97a89aa1e71fd878a",
-   "byte": 20222996,
-   "data_acquisizione": "2026-11-05T17:13:11+00:00",
-   "asset": "ID_2480_-_Multibrand_5_-_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2480/ID_2480_-_Multibrand_5_-_Bando.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2480",
-   "titolo": "ID 2480 - Multibrand 5 - Convenzione Lotto 10 SUSE.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202480%20LICENZE%20SOFTWARE%20MULTIBRAND%205_1.zip#ID 2480 LICENZE SOFTWARE MULTIBRAND 5/lotto 10/ID 2480 - Multibrand 5 - Convenzione Lotto 10 SUSE.pdf",
-   "sha256": "66aca67eaa6eed9241410f1e128d8564af487c39f87bf2533e1f3bcb71d4cd67",
-   "byte": 9526592,
-   "data_acquisizione": "2026-11-05T17:14:21+00:00",
-   "asset": "ID_2480_-_Multibrand_5_-_Convenzione_Lotto_10_SUSE.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2480/ID_2480_-_Multibrand_5_-_Convenzione_Lotto_10_SUSE.pdf"
-  },
-  {
-   "iniziativa": "consip-2480",
    "titolo": "ID 2480 - Prodotti SW Multibrand 5 - Determina a contrarre.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202480%20-%20Prodotti%20SW%20Multibrand%205%20-%20Determina%20a%20contrarre.pdf",
    "sha256": "a598a2fddf177f2d5618a13f4eacd3120cc7b3079c2d813824640fac7b7eeff1",
@@ -9281,6 +9271,16 @@
    "data_acquisizione": "2026-11-05T17:14:15+00:00",
    "asset": "ID_2480_Art._47.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2480/ID_2480_Art._47.zip"
+  },
+  {
+   "iniziativa": "consip-2480",
+   "titolo": "ID 2480 LICENZE SOFTWARE MULTIBRAND 5_1.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202480%20LICENZE%20SOFTWARE%20MULTIBRAND%205_1.zip",
+   "sha256": "66aca67eaa6eed9241410f1e128d8564af487c39f87bf2533e1f3bcb71d4cd67",
+   "byte": 9526592,
+   "data_acquisizione": "2026-11-05T17:14:21+00:00",
+   "asset": "ID_2480_LICENZE_SOFTWARE_MULTIBRAND_5_1.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2480/ID_2480_LICENZE_SOFTWARE_MULTIBRAND_5_1.zip"
   },
   {
    "iniziativa": "consip-2480",
@@ -9581,36 +9581,6 @@
    "data_acquisizione": "2026-11-05T15:40:13+00:00",
    "asset": "Elenco_verbali_-_ID_2483.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/Elenco_verbali_-_ID_2483.pdf"
-  },
-  {
-   "iniziativa": "consip-2483",
-   "titolo": "ID 2483 - Accordo Quadro - RTI Accenture.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202483%20AQ%20SERVIZI%20APPLICATIVI%20IN%20OTTICA%20CLOUD%202.zip#ID 2483 AQ SERVIZI APPLICATIVI IN OTTICA CLOUD 2/lotto 1/ID 2483 - Accordo Quadro - RTI Accenture.pdf",
-   "sha256": "22fe73c45392e18429b48927100c04e6f69fae16cc9d8939864c659aa5142d5b",
-   "byte": 7426888,
-   "data_acquisizione": "2026-11-05T15:41:12+00:00",
-   "asset": "ID_2483_-_Accordo_Quadro_-_RTI_Accenture.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/ID_2483_-_Accordo_Quadro_-_RTI_Accenture.pdf"
-  },
-  {
-   "iniziativa": "consip-2483",
-   "titolo": "ID 2483 - Accordo Quadro L2 - RTI HSPI signed.pdf.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/L.2.zip#L.2/ID 2483 - Accordo Quadro L2 - RTI HSPI signed.pdf.pdf",
-   "sha256": "73f02de39f3d735c0f344cd531299242e5662bce57943879b786c769f17312f8",
-   "byte": 3091144,
-   "data_acquisizione": "2026-11-05T15:39:36+00:00",
-   "asset": "ID_2483_-_Accordo_Quadro_L2_-_RTI_HSPI_signed.pdf.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/ID_2483_-_Accordo_Quadro_L2_-_RTI_HSPI_signed.pdf.pdf"
-  },
-  {
-   "iniziativa": "consip-2483",
-   "titolo": "ID 2483 - Addendum Accordo Quadro - RTI ACCENTURE_signed.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/addendum%20ID%202483.zip#ID 2483 - Addendum Accordo Quadro - RTI ACCENTURE_signed.pdf",
-   "sha256": "c450701055c10faede373f1dc59200484324657d0fe1e41301c796dcdb6d15e7",
-   "byte": 1391373,
-   "data_acquisizione": "2026-11-05T15:40:03+00:00",
-   "asset": "addendum_ID_2483.zip_ID_2483_-_Addendum_Accordo_Quadro_-_RTI_ACCENTURE_signed.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/addendum_ID_2483.zip_ID_2483_-_Addendum_Accordo_Quadro_-_RTI_ACCENTURE_signed.pdf"
   },
   {
    "iniziativa": "consip-2483",
@@ -9984,13 +9954,23 @@
   },
   {
    "iniziativa": "consip-2483",
-   "titolo": "ID 2483 Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202483%20NEW%20DOC%20UFF.zip#ID 2483 - NEW DOC UFF/ID 2483 Bando.pdf.p7m",
+   "titolo": "ID 2483 AQ SERVIZI APPLICATIVI IN OTTICA CLOUD 2.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202483%20AQ%20SERVIZI%20APPLICATIVI%20IN%20OTTICA%20CLOUD%202.zip",
+   "sha256": "22fe73c45392e18429b48927100c04e6f69fae16cc9d8939864c659aa5142d5b",
+   "byte": 7426888,
+   "data_acquisizione": "2026-11-05T15:41:12+00:00",
+   "asset": "ID_2483_AQ_SERVIZI_APPLICATIVI_IN_OTTICA_CLOUD_2.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/ID_2483_AQ_SERVIZI_APPLICATIVI_IN_OTTICA_CLOUD_2.zip"
+  },
+  {
+   "iniziativa": "consip-2483",
+   "titolo": "ID 2483 NEW DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202483%20NEW%20DOC%20UFF.zip",
    "sha256": "6ce7356920376edfdd5169f7a95fce1c6256850482298961205535983879da42",
    "byte": 31179813,
    "data_acquisizione": "2026-11-05T15:39:25+00:00",
-   "asset": "ID_2483_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/ID_2483_Bando.pdf.p7m"
+   "asset": "ID_2483_NEW_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/ID_2483_NEW_DOC_UFF.zip"
   },
   {
    "iniziativa": "consip-2483",
@@ -10041,6 +10021,16 @@
    "data_acquisizione": "2026-11-05T15:39:30+00:00",
    "asset": "ID2483_-_AQ_SAC2-_Avviso_di_aggiudicazione_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/ID2483_-_AQ_SAC2-_Avviso_di_aggiudicazione_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2483",
+   "titolo": "L.2.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/L.2.zip",
+   "sha256": "73f02de39f3d735c0f344cd531299242e5662bce57943879b786c769f17312f8",
+   "byte": 3091144,
+   "data_acquisizione": "2026-11-05T15:39:36+00:00",
+   "asset": "L.2.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/L.2.zip"
   },
   {
    "iniziativa": "consip-2483",
@@ -10121,6 +10111,16 @@
    "data_acquisizione": "2026-11-05T15:39:58+00:00",
    "asset": "SAC2L2_Addendum_contrattuale_firmati_0.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/SAC2L2_Addendum_contrattuale_firmati_0.zip"
+  },
+  {
+   "iniziativa": "consip-2483",
+   "titolo": "addendum ID 2483.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/addendum%20ID%202483.zip",
+   "sha256": "c450701055c10faede373f1dc59200484324657d0fe1e41301c796dcdb6d15e7",
+   "byte": 1391373,
+   "data_acquisizione": "2026-11-05T15:40:03+00:00",
+   "asset": "addendum_ID_2483.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2483/addendum_ID_2483.zip"
   },
   {
    "iniziativa": "consip-2483",
@@ -10584,6 +10584,16 @@
   },
   {
    "iniziativa": "consip-2496",
+   "titolo": "ID 2496 - AQ CT ed. 9 - Documentazione in PDF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202496%20-%20AQ%20CT%20ed.%209%20-%20Documentazione%20in%20PDF.zip",
+   "sha256": "5729fb8a9b0e9532c0de9b6213c74391466c458e8b05622639c20d1b1a882750",
+   "byte": 26479497,
+   "data_acquisizione": "2026-11-05T17:23:41+00:00",
+   "asset": "ID_2496_-_AQ_CT_ed._9_-_Documentazione_in_PDF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2496/ID_2496_-_AQ_CT_ed._9_-_Documentazione_in_PDF.zip"
+  },
+  {
+   "iniziativa": "consip-2496",
    "titolo": "ID 2496 - AQ CT ed. 9 - Informazioni sulla procedura.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202496%20-%20AQ%20CT%20ed.%209%20-%20Informazioni%20sulla%20procedura.pdf",
    "sha256": "bf81cc188383e39266427d9a771d75f64424d14319640c8229e23937fa149861",
@@ -10624,43 +10634,33 @@
   },
   {
    "iniziativa": "consip-2496",
-   "titolo": "ID 2496 - Bando di gara.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202496%20-%20AQ%20CT%20ed.%209%20-%20Documentazione%20in%20PDF.zip#Pacchetto doc PDF/ID 2496 - Bando di gara.pdf",
-   "sha256": "5729fb8a9b0e9532c0de9b6213c74391466c458e8b05622639c20d1b1a882750",
-   "byte": 26479497,
-   "data_acquisizione": "2026-11-05T17:23:41+00:00",
-   "asset": "ID_2496_-_Bando_di_gara.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2496/ID_2496_-_Bando_di_gara.pdf"
-  },
-  {
-   "iniziativa": "consip-2496",
-   "titolo": "ID 2496 - Bando di gara.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202496%20-%20DOC%20NON%20UFF%20NEW.zip#Pacchetto doc PDF NEW/ID 2496 - Bando di gara.pdf",
+   "titolo": "ID 2496 - DOC NON UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202496%20-%20DOC%20NON%20UFF%20NEW.zip",
    "sha256": "e860df15dbe6a99e4a088af50bb02156f9e073ca91faebe02c8830590c45fc62",
    "byte": 26475684,
    "data_acquisizione": "2026-11-05T17:23:52+00:00",
-   "asset": "e860df15dbe6_ID_2496_-_Bando_di_gara.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2496/e860df15dbe6_ID_2496_-_Bando_di_gara.pdf"
+   "asset": "ID_2496_-_DOC_NON_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2496/ID_2496_-_DOC_NON_UFF_NEW.zip"
   },
   {
    "iniziativa": "consip-2496",
-   "titolo": "ID 2496 - Bando di gara.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202496%20-%20DOC%20UFF.zip#ID 2496 - Bando di gara.pdf.p7m",
-   "sha256": "55226bde0561a7754ef17189178db8c8a0e827e400a7d8273287bde036d7cae3",
-   "byte": 26650422,
-   "data_acquisizione": "2026-11-05T17:22:53+00:00",
-   "asset": "ID_2496_-_DOC_UFF.zip_ID_2496_-_Bando_di_gara.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2496/ID_2496_-_DOC_UFF.zip_ID_2496_-_Bando_di_gara.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2496",
-   "titolo": "ID 2496 - Bando di gara.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202496%20-%20DOC%20UFF%20NEW.zip#ID 2496 - Bando di gara.pdf.p7m",
+   "titolo": "ID 2496 - DOC UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202496%20-%20DOC%20UFF%20NEW.zip",
    "sha256": "e706f3f3cdeb0764cf940fbfbaf7d17f4e035e830c1a9257a263872eff2ed0f4",
    "byte": 26645081,
    "data_acquisizione": "2026-11-05T17:22:48+00:00",
-   "asset": "ID_2496_-_DOC_UFF_NEW.zip_ID_2496_-_Bando_di_gara.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2496/ID_2496_-_DOC_UFF_NEW.zip_ID_2496_-_Bando_di_gara.pdf.p7m"
+   "asset": "ID_2496_-_DOC_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2496/ID_2496_-_DOC_UFF_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2496",
+   "titolo": "ID 2496 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202496%20-%20DOC%20UFF.zip",
+   "sha256": "55226bde0561a7754ef17189178db8c8a0e827e400a7d8273287bde036d7cae3",
+   "byte": 26650422,
+   "data_acquisizione": "2026-11-05T17:22:53+00:00",
+   "asset": "ID_2496_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2496/ID_2496_-_DOC_UFF.zip"
   },
   {
    "iniziativa": "consip-2496",
@@ -10964,6 +10964,36 @@
   },
   {
    "iniziativa": "consip-2536",
+   "titolo": "ID 2536 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202536%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "6cfb1539f4b173d817b439a74e3c79a9824fe78c05922dbc19499e1069acdeaf",
+   "byte": 21648458,
+   "data_acquisizione": "2026-11-05T15:56:13+00:00",
+   "asset": "ID_2536_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID_2536_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2536",
+   "titolo": "ID 2536 - DT2 - DOC NON UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202536%20-%20DT2%20-%20DOC%20NON%20UFF%20NEW.zip",
+   "sha256": "056ebe762743d1c432d5a91a5234cb37795dd05d7529715e7c99113779effb18",
+   "byte": 2289952,
+   "data_acquisizione": "2026-11-05T15:56:18+00:00",
+   "asset": "ID_2536_-_DT2_-_DOC_NON_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID_2536_-_DT2_-_DOC_NON_UFF_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2536",
+   "titolo": "ID 2536 - DT2 - DOC UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202536%20-%20DT2%20-%20DOC%20UFF%20NEW.zip",
+   "sha256": "4df44b0707d7d57244e24c3ab3e6b5be5034575556b6062f83cccffc4f97d02f",
+   "byte": 2303432,
+   "data_acquisizione": "2026-11-05T15:55:20+00:00",
+   "asset": "ID_2536_-_DT2_-_DOC_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID_2536_-_DT2_-_DOC_UFF_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2536",
    "titolo": "ID 2536 - Digital Transformation 2 - Determina a contrarre.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202536%20-%20Digital%20Transformation%202%20-%20Determina%20a%20contrarre.pdf",
    "sha256": "aedf5f2c2cbb6ac4864279e35fb37bb63ab3d21234f3adc31142d8d14fb13df6",
@@ -10984,6 +11014,16 @@
   },
   {
    "iniziativa": "consip-2536",
+   "titolo": "ID 2536 - MODULI DI DICHIARAZIONE.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202536%20-%20MODULI%20DI%20DICHIARAZIONE.zip",
+   "sha256": "64a0d808a5a93ead90f1f42509437842c389baf29adff2bc8252e8a4b04b3f97",
+   "byte": 650026,
+   "data_acquisizione": "2026-11-05T15:56:29+00:00",
+   "asset": "ID_2536_-_MODULI_DI_DICHIARAZIONE.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID_2536_-_MODULI_DI_DICHIARAZIONE.zip"
+  },
+  {
+   "iniziativa": "consip-2536",
    "titolo": "ID 2536 Rapporti pari opportunità.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202536%20Rapporti%20pari%20opportunit%C3%A0.zip",
    "sha256": "b331dda894ce096002a6cd73531f0a0b389b5479a5fe4f70d18329c37caa5c69",
@@ -11001,46 +11041,6 @@
    "data_acquisizione": "2026-11-05T15:56:40+00:00",
    "asset": "ID_2536_contatti.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID_2536_contatti.zip"
-  },
-  {
-   "iniziativa": "consip-2536",
-   "titolo": "ID2536 - Digital Transformation 2 -  All 11 - Condizioni di assicurazione.docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202536%20-%20MODULI%20DI%20DICHIARAZIONE.zip#dichiarazioni doc/ID2536 - Digital Transformation 2 -  All 11 - Condizioni di assicurazione.docx",
-   "sha256": "64a0d808a5a93ead90f1f42509437842c389baf29adff2bc8252e8a4b04b3f97",
-   "byte": 650026,
-   "data_acquisizione": "2026-11-05T15:56:29+00:00",
-   "asset": "ID2536_-_Digital_Transformation_2_-_All_11_-_Condizioni_di_assicurazione.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID2536_-_Digital_Transformation_2_-_All_11_-_Condizioni_di_assicurazione.docx"
-  },
-  {
-   "iniziativa": "consip-2536",
-   "titolo": "ID2536 - Digital Transformation 2 - Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202536%20-%20DOC%20NON%20UFF.zip#ID 2536 - AQ Digital Transformation 2 - documentazione PDF/ID2536 - Digital Transformation 2 - Bando.pdf",
-   "sha256": "6cfb1539f4b173d817b439a74e3c79a9824fe78c05922dbc19499e1069acdeaf",
-   "byte": 21648458,
-   "data_acquisizione": "2026-11-05T15:56:13+00:00",
-   "asset": "ID2536_-_Digital_Transformation_2_-_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID2536_-_Digital_Transformation_2_-_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2536",
-   "titolo": "ID2536 - Digital Transformation 2 - Capitolato Oneri_new.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202536%20-%20DT2%20-%20DOC%20NON%20UFF%20NEW.zip#ID 2536 - DT2 - doc pdf new/ID2536 - Digital Transformation 2 - Capitolato Oneri_new.pdf",
-   "sha256": "056ebe762743d1c432d5a91a5234cb37795dd05d7529715e7c99113779effb18",
-   "byte": 2289952,
-   "data_acquisizione": "2026-11-05T15:56:18+00:00",
-   "asset": "ID2536_-_Digital_Transformation_2_-_Capitolato_Oneri_new.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID2536_-_Digital_Transformation_2_-_Capitolato_Oneri_new.pdf"
-  },
-  {
-   "iniziativa": "consip-2536",
-   "titolo": "ID2536 - Digital Transformation 2 - Capitolato Oneri_new.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202536%20-%20DT2%20-%20DOC%20UFF%20NEW.zip#ID 2536 - DT2 - doc pdf new firmati/ID2536 - Digital Transformation 2 - Capitolato Oneri_new.pdf.p7m",
-   "sha256": "4df44b0707d7d57244e24c3ab3e6b5be5034575556b6062f83cccffc4f97d02f",
-   "byte": 2303432,
-   "data_acquisizione": "2026-11-05T15:55:20+00:00",
-   "asset": "ID2536_-_Digital_Transformation_2_-_Capitolato_Oneri_new.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2536/ID2536_-_Digital_Transformation_2_-_Capitolato_Oneri_new.pdf.p7m"
   },
   {
    "iniziativa": "consip-2536",
@@ -11264,16 +11264,6 @@
   },
   {
    "iniziativa": "consip-2566",
-   "titolo": "BIP L4 - ID2566 - Accordo Quadro.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/fase_esecutiva/ID2566%20-%20Lotti%204-5-6%20-%20contratti.zip#Lotto 4/BIP L4 - ID2566 - Accordo Quadro.pdf",
-   "sha256": "ecb2ee9e2fc8819d4d177c7c33097f7a7b5641c941b7ec582f83c798c0a27bc4",
-   "byte": 14463743,
-   "data_acquisizione": "2026-11-05T17:07:32+00:00",
-   "asset": "BIP_L4_-_ID2566_-_Accordo_Quadro.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/BIP_L4_-_ID2566_-_Accordo_Quadro.pdf"
-  },
-  {
-   "iniziativa": "consip-2566",
    "titolo": "CV Dott. Agostino Pappacena_20230831.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/cv/CV%20Dott.%20Agostino%20Pappacena_20230831.pdf",
    "sha256": "fb7a712dcf69e3b918513f3eb9c7dc9896bcc3fbadb794c388c2b1b433ae2bb6",
@@ -11384,6 +11374,26 @@
   },
   {
    "iniziativa": "consip-2566",
+   "titolo": "ID 2566 - DOC UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202566%20-%20DOC%20UFF%20NEW.zip",
+   "sha256": "51aaa99402bec3d98e547a96734a5d51fb57871935c5f77f78dde64ba0f665a5",
+   "byte": 31050354,
+   "data_acquisizione": "2026-11-05T17:05:27+00:00",
+   "asset": "ID_2566_-_DOC_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID_2566_-_DOC_UFF_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2566",
+   "titolo": "ID 2566 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202566%20-%20DOC%20UFF.zip",
+   "sha256": "24483a1220ac795f7508182d7d832f6bcd5fdc92423bbd0e1163d80864618c46",
+   "byte": 31097592,
+   "data_acquisizione": "2026-11-05T17:05:33+00:00",
+   "asset": "ID_2566_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID_2566_-_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2566",
    "titolo": "ID 2566 - L.4-5-6 Esito GUUE.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202566%20-%20L.4-5-6%20Esito%20GUUE.pdf",
    "sha256": "45e59545c8c577cbe9ccc1a645adad5306586104afdea2b55e12058d98dd7740",
@@ -11421,56 +11431,6 @@
    "data_acquisizione": "2026-11-05T17:07:26+00:00",
    "asset": "ID_2566_Comunicazione_di_Nulla_Osta_Fusione-GPI_OSLO-signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID_2566_Comunicazione_di_Nulla_Osta_Fusione-GPI_OSLO-signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2566",
-   "titolo": "ID2566 - Allegato 10 - Facsimile di garanzie per la stipula dell’Accordo Quadro.docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2566%20-%20moduli%20dichiarazione%20word.zip#ID2566 - Allegato 10 - Facsimile di garanzie per la stipula dell’Accordo Quadro.docx",
-   "sha256": "e40ec41da0aa5dd041dabd85aca5cd234a7b04e27dd4982746d8655eaed4af71",
-   "byte": 650624,
-   "data_acquisizione": "2026-11-05T17:06:48+00:00",
-   "asset": "ID2566_-_moduli_dichiarazione_word.zip_ID2566_-_Allegato_10_-_Facsimile_di_garanzie_per_la_stipula_dellAccordo_Quadro.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_moduli_dichiarazione_word.zip_ID2566_-_Allegato_10_-_Facsimile_di_garanzie_per_la_stipula_dellAccordo_Quadro.docx"
-  },
-  {
-   "iniziativa": "consip-2566",
-   "titolo": "ID2566 - Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2566%20-%20DOC%20NON%20UFF.zip#ID2566 - Bando.pdf",
-   "sha256": "0f7a5725e034f049533db171c38cc271beb6b646bc79687bb4be4365c2423129",
-   "byte": 30763530,
-   "data_acquisizione": "2026-11-05T17:06:37+00:00",
-   "asset": "ID2566_-_DOC_NON_UFF.zip_ID2566_-_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_DOC_NON_UFF.zip_ID2566_-_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2566",
-   "titolo": "ID2566 - Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2566%20-%20DOC%20NON%20UFF%20NEW.zip#ID2566 - Bando.pdf",
-   "sha256": "dd003351612f37a9bd88847dc727f24a765a8844b0d0c4319c8ca865f0852bb3",
-   "byte": 30727831,
-   "data_acquisizione": "2026-11-05T17:06:31+00:00",
-   "asset": "ID2566_-_DOC_NON_UFF_NEW.zip_ID2566_-_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_DOC_NON_UFF_NEW.zip_ID2566_-_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2566",
-   "titolo": "ID2566 - Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202566%20-%20DOC%20UFF.zip#Doc firmati ID 2566/ID2566 - Bando.pdf.p7m",
-   "sha256": "24483a1220ac795f7508182d7d832f6bcd5fdc92423bbd0e1163d80864618c46",
-   "byte": 31097592,
-   "data_acquisizione": "2026-11-05T17:05:33+00:00",
-   "asset": "ID2566_-_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_Bando.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2566",
-   "titolo": "ID2566 - Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202566%20-%20DOC%20UFF%20NEW.zip#Doc firmati ID 2566/ID2566 - Bando.pdf.p7m",
-   "sha256": "51aaa99402bec3d98e547a96734a5d51fb57871935c5f77f78dde64ba0f665a5",
-   "byte": 31050354,
-   "data_acquisizione": "2026-11-05T17:05:27+00:00",
-   "asset": "51aaa99402be_ID2566_-_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/51aaa99402be_ID2566_-_Bando.pdf.p7m"
   },
   {
    "iniziativa": "consip-2566",
@@ -11514,6 +11474,26 @@
   },
   {
    "iniziativa": "consip-2566",
+   "titolo": "ID2566 - DOC NON UFF NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2566%20-%20DOC%20NON%20UFF%20NEW.zip",
+   "sha256": "dd003351612f37a9bd88847dc727f24a765a8844b0d0c4319c8ca865f0852bb3",
+   "byte": 30727831,
+   "data_acquisizione": "2026-11-05T17:06:31+00:00",
+   "asset": "ID2566_-_DOC_NON_UFF_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_DOC_NON_UFF_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2566",
+   "titolo": "ID2566 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2566%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "0f7a5725e034f049533db171c38cc271beb6b646bc79687bb4be4365c2423129",
+   "byte": 30763530,
+   "data_acquisizione": "2026-11-05T17:06:37+00:00",
+   "asset": "ID2566_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2566",
    "titolo": "ID2566 - Determina a contrarre.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2566%20-%20Determina%20a%20contrarre.pdf",
    "sha256": "f99bac00765080beb2234c3e29a0b28a431d3191b040b5d36fc95e6688be6f44",
@@ -11531,6 +11511,26 @@
    "data_acquisizione": "2026-11-05T17:05:54+00:00",
    "asset": "ID2566_-_Determina_a_contrarre_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_Determina_a_contrarre_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2566",
+   "titolo": "ID2566 - Lotti 4-5-6 - contratti.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/fase_esecutiva/ID2566%20-%20Lotti%204-5-6%20-%20contratti.zip",
+   "sha256": "ecb2ee9e2fc8819d4d177c7c33097f7a7b5641c941b7ec582f83c798c0a27bc4",
+   "byte": 14463743,
+   "data_acquisizione": "2026-11-05T17:07:32+00:00",
+   "asset": "ID2566_-_Lotti_4-5-6_-_contratti.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_Lotti_4-5-6_-_contratti.zip"
+  },
+  {
+   "iniziativa": "consip-2566",
+   "titolo": "ID2566 - moduli dichiarazione word.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2566%20-%20moduli%20dichiarazione%20word.zip",
+   "sha256": "e40ec41da0aa5dd041dabd85aca5cd234a7b04e27dd4982746d8655eaed4af71",
+   "byte": 650624,
+   "data_acquisizione": "2026-11-05T17:06:48+00:00",
+   "asset": "ID2566_-_moduli_dichiarazione_word.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2566/ID2566_-_moduli_dichiarazione_word.zip"
   },
   {
    "iniziativa": "consip-2566",
@@ -11664,6 +11664,26 @@
   },
   {
    "iniziativa": "consip-2599",
+   "titolo": "ID 2599 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202599%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "666241f9e2524f62b088680df44a4638a532716f32e6c40d1bbe8f7243ae5faf",
+   "byte": 21397376,
+   "data_acquisizione": "2026-11-05T15:58:47+00:00",
+   "asset": "ID_2599_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2599/ID_2599_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2599",
+   "titolo": "ID 2599 - DOC UFF_1.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202599%20-%20DOC%20UFF_1.zip",
+   "sha256": "e24500a3ea03b671f6cdc465603f21d7e8907dd1837a5c153c642509ddb24f2e",
+   "byte": 21584519,
+   "data_acquisizione": "2026-11-05T15:58:10+00:00",
+   "asset": "ID_2599_-_DOC_UFF_1.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2599/ID_2599_-_DOC_UFF_1.zip"
+  },
+  {
+   "iniziativa": "consip-2599",
    "titolo": "ID 2599 - MULT 6 - Lotto 4 - Art 47 cm 3 & 3 bis - Converge_oscurato.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202599%20-%20MULT%206%20-%20Lotto%204%20-%20Art%2047%20cm%203%20%26%203%20bis%20-%20Converge_oscurato.pdf",
    "sha256": "475ec35e207e1e2cf09ec05d4a675c451ba6ce8218ad9c37779f5d57b93006ec",
@@ -11731,26 +11751,6 @@
    "data_acquisizione": "2026-11-05T15:58:26+00:00",
    "asset": "ID_2599_Verbali_commissione.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2599/ID_2599_Verbali_commissione.zip"
-  },
-  {
-   "iniziativa": "consip-2599",
-   "titolo": "ID 2599_Multibrand6_Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202599%20-%20DOC%20NON%20UFF.zip#ID 2599 - Multibrand 6  -Pubblicazione.pdf/ID 2599_Multibrand6_Bando.pdf",
-   "sha256": "666241f9e2524f62b088680df44a4638a532716f32e6c40d1bbe8f7243ae5faf",
-   "byte": 21397376,
-   "data_acquisizione": "2026-11-05T15:58:47+00:00",
-   "asset": "ID_2599_Multibrand6_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2599/ID_2599_Multibrand6_Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2599",
-   "titolo": "ID 2599_Multibrand6_Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202599%20-%20DOC%20UFF_1.zip#ID 2599_Multibrand6_Bando.pdf.p7m",
-   "sha256": "e24500a3ea03b671f6cdc465603f21d7e8907dd1837a5c153c642509ddb24f2e",
-   "byte": 21584519,
-   "data_acquisizione": "2026-11-05T15:58:10+00:00",
-   "asset": "ID_2599_-_DOC_UFF_1.zip_ID_2599_Multibrand6_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2599/ID_2599_-_DOC_UFF_1.zip_ID_2599_Multibrand6_Bando.pdf.p7m"
   },
   {
    "iniziativa": "consip-2599",
@@ -12184,6 +12184,26 @@
   },
   {
    "iniziativa": "consip-2601",
+   "titolo": "ID 2601 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202601%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "7b259b50bfe59be249d5639d24c4fb253669e0c8cd82be290702b9b1d8391355",
+   "byte": 11929981,
+   "data_acquisizione": "2026-11-05T16:16:44+00:00",
+   "asset": "ID_2601_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2601",
+   "titolo": "ID 2601 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202601%20-%20DOC%20UFF.zip",
+   "sha256": "b1a286195f2146622708b8a4b4334deccde5275f4fa45ed140a87182d9a1da24",
+   "byte": 12039068,
+   "data_acquisizione": "2026-11-05T16:15:18+00:00",
+   "asset": "ID_2601_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_-_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2601",
    "titolo": "ID 2601 - L.5-6 - VEBRALI.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202601%20-%20L.5-6%20-%20VEBRALI.zip",
    "sha256": "6107f06be6f2e19f78c2cc25964ac53ee0d47fa1e18bf6eab0b3924674f3598b",
@@ -12201,6 +12221,16 @@
    "data_acquisizione": "2026-11-05T16:16:49+00:00",
    "asset": "ID_2601_-_MODULI_DI_DICHIARAZIONE.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_-_MODULI_DI_DICHIARAZIONE.zip"
+  },
+  {
+   "iniziativa": "consip-2601",
+   "titolo": "ID 2601 - NUVYTA - EDP - MICE - METEDA.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202601%20-%20NUVYTA%20-%20EDP%20-%20MICE%20-%20METEDA.zip",
+   "sha256": "a1d5d0d7e3be50cffb9f4623ddbd49b20e0ab2ceef91f2032919a322db6db98f",
+   "byte": 4940623,
+   "data_acquisizione": "2026-11-05T16:15:29+00:00",
+   "asset": "ID_2601_-_NUVYTA_-_EDP_-_MICE_-_METEDA.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_-_NUVYTA_-_EDP_-_MICE_-_METEDA.zip"
   },
   {
    "iniziativa": "consip-2601",
@@ -12261,26 +12291,6 @@
    "data_acquisizione": "2026-11-05T16:15:35+00:00",
    "asset": "ID_2601_-_Verbali.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_-_Verbali.zip"
-  },
-  {
-   "iniziativa": "consip-2601",
-   "titolo": "ID 2601 Bando AQ.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202601%20-%20DOC%20NON%20UFF.zip#ID 2601 Bando AQ.pdf",
-   "sha256": "7b259b50bfe59be249d5639d24c4fb253669e0c8cd82be290702b9b1d8391355",
-   "byte": 11929981,
-   "data_acquisizione": "2026-11-05T16:16:44+00:00",
-   "asset": "ID_2601_-_DOC_NON_UFF.zip_ID_2601_Bando_AQ.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_-_DOC_NON_UFF.zip_ID_2601_Bando_AQ.pdf"
-  },
-  {
-   "iniziativa": "consip-2601",
-   "titolo": "ID 2601 Bando AQ.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202601%20-%20DOC%20UFF.zip#PDF firmati/ID 2601 Bando AQ.pdf.p7m",
-   "sha256": "b1a286195f2146622708b8a4b4334deccde5275f4fa45ed140a87182d9a1da24",
-   "byte": 12039068,
-   "data_acquisizione": "2026-11-05T16:15:18+00:00",
-   "asset": "ID_2601_Bando_AQ.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_Bando_AQ.pdf.p7m"
   },
   {
    "iniziativa": "consip-2601",
@@ -12354,16 +12364,6 @@
   },
   {
    "iniziativa": "consip-2601",
-   "titolo": "ID 2601 Schema AQ L1 - DEDALUS_signed.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202601%20lotti%20da%201%20a%204%20AQ%20FIRMATI.zip#ID 2601 Schema AQ L1 - DEDALUS_signed.pdf",
-   "sha256": "e199d8181feaedc87eebc88b0a726ecb9a751de24d165ccd1fcc64452058dda0",
-   "byte": 17066199,
-   "data_acquisizione": "2026-11-05T16:16:06+00:00",
-   "asset": "ID_2601_lotti_da_1_a_4_AQ_FIRMATI.zip_ID_2601_Schema_AQ_L1_-_DEDALUS_signed.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_lotti_da_1_a_4_AQ_FIRMATI.zip_ID_2601_Schema_AQ_L1_-_DEDALUS_signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2601",
    "titolo": "ID 2601 e 2366 - EHT.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202601%20e%202366%20-%20EHT.zip",
    "sha256": "d5f5b88c7d1fe6773b25ab63eb9c1ec5b0dfefe9ccd542f9d86aa24516bfd1a4",
@@ -12374,6 +12374,16 @@
   },
   {
    "iniziativa": "consip-2601",
+   "titolo": "ID 2601 lotti da 1 a 4 AQ FIRMATI.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202601%20lotti%20da%201%20a%204%20AQ%20FIRMATI.zip",
+   "sha256": "e199d8181feaedc87eebc88b0a726ecb9a751de24d165ccd1fcc64452058dda0",
+   "byte": 17066199,
+   "data_acquisizione": "2026-11-05T16:16:06+00:00",
+   "asset": "ID_2601_lotti_da_1_a_4_AQ_FIRMATI.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601_lotti_da_1_a_4_AQ_FIRMATI.zip"
+  },
+  {
+   "iniziativa": "consip-2601",
    "titolo": "ID 2601-ID 1949-ID 2035-ID 2213-ID 2483-ID 2610-ID 2202-Comunicazione di nulla osta Fastweb S.p.A.-signed.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/fase_esecutiva/ID%202601-ID%201949-ID%202035-ID%202213-ID%202483-ID%202610-ID%202202-Comunicazione%20di%20nulla%20osta%20Fastweb%20S.p.A.-signed.pdf",
    "sha256": "62d24ffd10347d95837f979cebac05c2faa5a86c358af65b6a6c5a1d11a72134",
@@ -12381,16 +12391,6 @@
    "data_acquisizione": "2026-11-05T15:41:38+00:00",
    "asset": "ID_2601-ID_1949-ID_2035-ID_2213-ID_2483-ID_2610-ID_2202-Comunicazione_di_nulla_osta_Fastweb_S.p.A.-signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/ID_2601-ID_1949-ID_2035-ID_2213-ID_2483-ID_2610-ID_2202-Comunicazione_di_nulla_osta_Fastweb_S.p.A.-signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2601",
-   "titolo": "METEDA Reg. Disciplinare rev. 27001.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202601%20-%20NUVYTA%20-%20EDP%20-%20MICE%20-%20METEDA.zip#ID 2601 - NUVYTA - EDP - MICE - METEDA/ID 2601 - RTI GPI - METEDA/METEDA Reg. Disciplinare rev. 27001.pdf",
-   "sha256": "a1d5d0d7e3be50cffb9f4623ddbd49b20e0ab2ceef91f2032919a322db6db98f",
-   "byte": 4940623,
-   "data_acquisizione": "2026-11-05T16:15:29+00:00",
-   "asset": "METEDA_Reg._Disciplinare_rev._27001.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2601/METEDA_Reg._Disciplinare_rev._27001.pdf"
   },
   {
    "iniziativa": "consip-2601",
@@ -12561,6 +12561,26 @@
    "data_acquisizione": "2026-11-05T15:42:20+00:00",
    "asset": "180_-_Atto_di_nomina_della_Commissione_giudicatrice_ID_2610_SAC_3_PMO_signed_signed_signed_signed_signed_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/180_-_Atto_di_nomina_della_Commissione_giudicatrice_ID_2610_SAC_3_PMO_signed_signed_signed_signed_signed_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2610",
+   "titolo": "2026-20414_cda3339d7d054ab0b7146bddceeefb14_ID 2610_ADEMPIMENTI EX ART 47 DL77-2021_LOTTO 1 - RTI EXPRIVIA.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/2026-20414_cda3339d7d054ab0b7146bddceeefb14_ID%202610_ADEMPIMENTI%20EX%20ART%2047%20DL77-2021_LOTTO%201%20-%20RTI%20EXPRIVIA.zip",
+   "sha256": "4b3a4c119b6a6438f924496f3cca6b252823e7e3a162990ac84ac10eb49d0a18",
+   "byte": 12101523,
+   "data_acquisizione": "2026-11-05T15:43:03+00:00",
+   "asset": "2026-20414_cda3339d7d054ab0b7146bddceeefb14_ID_2610_ADEMPIMENTI_EX_ART_47_DL77-2021_LOTTO_1_-_RTI_EXPRIVIA.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/2026-20414_cda3339d7d054ab0b7146bddceeefb14_ID_2610_ADEMPIMENTI_EX_ART_47_DL77-2021_LOTTO_1_-_RTI_EXPRIVIA.zip"
+  },
+  {
+   "iniziativa": "consip-2610",
+   "titolo": "2026-23705_0bd18a36b6b042fa8621b61f727286db_ID 2610_ADEMPIMENTI EX ART 47 DL77-2021_LOTTO 1 - RTI ENGINEERING.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/2026-23705_0bd18a36b6b042fa8621b61f727286db_ID%202610_ADEMPIMENTI%20EX%20ART%2047%20DL77-2021_LOTTO%201%20-%20RTI%20ENGINEERING.zip",
+   "sha256": "ff983e501879f79bffd22e96a379218347694981b8b7db4e5b2622db5257ec42",
+   "byte": 40956847,
+   "data_acquisizione": "2026-11-05T15:43:09+00:00",
+   "asset": "2026-23705_0bd18a36b6b042fa8621b61f727286db_ID_2610_ADEMPIMENTI_EX_ART_47_DL77-2021_LOTTO_1_-_RTI_ENGINEERING.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/2026-23705_0bd18a36b6b042fa8621b61f727286db_ID_2610_ADEMPIMENTI_EX_ART_47_DL77-2021_LOTTO_1_-_RTI_ENGINEERING.zip"
   },
   {
    "iniziativa": "consip-2610",
@@ -12754,6 +12774,26 @@
   },
   {
    "iniziativa": "consip-2610",
+   "titolo": "ID 2610 - DOC NON UFF - NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202610%20-%20DOC%20NON%20UFF%20-%20NEW.zip",
+   "sha256": "c140f6a33b5adbad40f2cb4fb24c8ced0ef99142f53ec9dfc0b60baf2a39c7b0",
+   "byte": 13584800,
+   "data_acquisizione": "2026-11-05T15:43:41+00:00",
+   "asset": "ID_2610_-_DOC_NON_UFF_-_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/ID_2610_-_DOC_NON_UFF_-_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2610",
+   "titolo": "ID 2610 - DOC UFF - NEW.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202610%20-%20DOC%20UFF%20-%20NEW.zip",
+   "sha256": "b355586e1b2469c2233d9ddca8e8249f6dc6d58a7e7e26176d3cca68b8f9f1af",
+   "byte": 13720151,
+   "data_acquisizione": "2026-11-05T15:42:58+00:00",
+   "asset": "ID_2610_-_DOC_UFF_-_NEW.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/ID_2610_-_DOC_UFF_-_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2610",
    "titolo": "ID 2610 - MODULI DI DICHIARAZIONE.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202610%20-%20MODULI%20DI%20DICHIARAZIONE.zip",
    "sha256": "139b72b8d41755496889dc2000ff7cc670a7173cbd35bd692e51a6f8fb3449ea",
@@ -12771,26 +12811,6 @@
    "data_acquisizione": "2026-11-05T15:43:52+00:00",
    "asset": "ID_2610-_AQ_SAC3_-_Accordo_Quadro_Pub.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/ID_2610-_AQ_SAC3_-_Accordo_Quadro_Pub.zip"
-  },
-  {
-   "iniziativa": "consip-2610",
-   "titolo": "ID 2610-AQ SAC3-Bando di gara.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202610%20-%20DOC%20NON%20UFF%20-%20NEW.zip#PDF/ID 2610-AQ SAC3-Bando di gara.pdf",
-   "sha256": "c140f6a33b5adbad40f2cb4fb24c8ced0ef99142f53ec9dfc0b60baf2a39c7b0",
-   "byte": 13584800,
-   "data_acquisizione": "2026-11-05T15:43:41+00:00",
-   "asset": "ID_2610-AQ_SAC3-Bando_di_gara.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/ID_2610-AQ_SAC3-Bando_di_gara.pdf"
-  },
-  {
-   "iniziativa": "consip-2610",
-   "titolo": "ID 2610-AQ SAC3-Bando di gara.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202610%20-%20DOC%20UFF%20-%20NEW.zip#Doc firmati ID 2610/ID 2610-AQ SAC3-Bando di gara.pdf.p7m",
-   "sha256": "b355586e1b2469c2233d9ddca8e8249f6dc6d58a7e7e26176d3cca68b8f9f1af",
-   "byte": 13720151,
-   "data_acquisizione": "2026-11-05T15:42:58+00:00",
-   "asset": "ID_2610-AQ_SAC3-Bando_di_gara.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/ID_2610-AQ_SAC3-Bando_di_gara.pdf.p7m"
   },
   {
    "iniziativa": "consip-2610",
@@ -12834,6 +12854,16 @@
   },
   {
    "iniziativa": "consip-2610",
+   "titolo": "RAPPORTI PARI OPP. L.1.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/RAPPORTI%20PARI%20OPP.%20L.1.zip",
+   "sha256": "bf19c7546405c015a14f3277cd88ba82913ec78c2879f79e61ce0535db37e7a9",
+   "byte": 43255681,
+   "data_acquisizione": "2026-11-05T15:44:19+00:00",
+   "asset": "RAPPORTI_PARI_OPP._L.1.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/RAPPORTI_PARI_OPP._L.1.zip"
+  },
+  {
+   "iniziativa": "consip-2610",
    "titolo": "RAPPORTO PARI OPPORTUNITA L.2_0.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/RAPPORTO%20PARI%20OPPORTUNITA%20L.2_0.zip",
    "sha256": "fba354294a8fa445c0a68ad1a1c2564460829b5dad327a59eb7632d4feeeefee",
@@ -12851,36 +12881,6 @@
    "data_acquisizione": "2026-11-05T15:44:31+00:00",
    "asset": "Rapporti_pari_opportunita_lotto_2.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/Rapporti_pari_opportunita_lotto_2.zip"
-  },
-  {
-   "iniziativa": "consip-2610",
-   "titolo": "Rapporto 20220920115806 schema pari opportunit__oscurato.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/2026-20414_cda3339d7d054ab0b7146bddceeefb14_ID%202610_ADEMPIMENTI%20EX%20ART%2047%20DL77-2021_LOTTO%201%20-%20RTI%20EXPRIVIA.zip#ID 2610_ADEMPIMENTI EX ART 47 DL77-2021_LOTTO 1 - RTI EXPRIVIA/Relazioni di genere/Rapporto 20220920115806 schema pari opportunit__oscurato.pdf",
-   "sha256": "4b3a4c119b6a6438f924496f3cca6b252823e7e3a162990ac84ac10eb49d0a18",
-   "byte": 12101523,
-   "data_acquisizione": "2026-11-05T15:43:03+00:00",
-   "asset": "Rapporto_20220920115806_schema_pari_opportunit_oscurato.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/Rapporto_20220920115806_schema_pari_opportunit_oscurato.pdf"
-  },
-  {
-   "iniziativa": "consip-2610",
-   "titolo": "Rapporto 20220920115806 schema pari opportunit__oscurato.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/RAPPORTI%20PARI%20OPP.%20L.1.zip#RTI Exprivia/Rapporto 20220920115806 schema pari opportunit__oscurato.pdf",
-   "sha256": "bf19c7546405c015a14f3277cd88ba82913ec78c2879f79e61ce0535db37e7a9",
-   "byte": 43255681,
-   "data_acquisizione": "2026-11-05T15:44:19+00:00",
-   "asset": "bf19c7546405_Rapporto_20220920115806_schema_pari_opportunit_oscurato.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/bf19c7546405_Rapporto_20220920115806_schema_pari_opportunit_oscurato.pdf"
-  },
-  {
-   "iniziativa": "consip-2610",
-   "titolo": "SCHEMA31_Dichiarazione_oscurato.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/2026-23705_0bd18a36b6b042fa8621b61f727286db_ID%202610_ADEMPIMENTI%20EX%20ART%2047%20DL77-2021_LOTTO%201%20-%20RTI%20ENGINEERING.zip#ID 2610_ADEMPIMENTI EX ART 47 DL77-2021_LOTTO 1 - RTI ENGINEERING/Relazioni di genere/SCHEMA31_Dichiarazione_oscurato.pdf",
-   "sha256": "ff983e501879f79bffd22e96a379218347694981b8b7db4e5b2622db5257ec42",
-   "byte": 40956847,
-   "data_acquisizione": "2026-11-05T15:43:09+00:00",
-   "asset": "SCHEMA31_Dichiarazione_oscurato.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2610/SCHEMA31_Dichiarazione_oscurato.pdf"
   },
   {
    "iniziativa": "consip-2610",
@@ -13024,6 +13024,26 @@
   },
   {
    "iniziativa": "consip-2615",
+   "titolo": "ID 2615 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202615%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "3604c93af4a9d99602119813715be5fa76b18b705a59fd25cc03672b61898475",
+   "byte": 7021130,
+   "data_acquisizione": "2026-11-05T15:46:16+00:00",
+   "asset": "ID_2615_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2615/ID_2615_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2615",
+   "titolo": "ID 2615 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202615%20-%20DOC%20UFF.zip",
+   "sha256": "7269bc2cb3807e5ba3a40b37211297207ac73c7876411764b3bc461ef9f1d2d3",
+   "byte": 7097302,
+   "data_acquisizione": "2026-11-05T15:45:39+00:00",
+   "asset": "ID_2615_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2615/ID_2615_-_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2615",
    "titolo": "ID 2615_ Risposte_Chiarimenti.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202615_%20Risposte_Chiarimenti.pdf",
    "sha256": "d275c8aca9ccb36a39136c2e05acf07422f6188e31941b6a1f4bab9fb9003b19",
@@ -13061,26 +13081,6 @@
    "data_acquisizione": "2026-11-05T15:46:32+00:00",
    "asset": "ID2615-EA8-_Convenzione.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2615/ID2615-EA8-_Convenzione.pdf"
-  },
-  {
-   "iniziativa": "consip-2615",
-   "titolo": "ID2615-EA8-Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202615%20-%20DOC%20NON%20UFF.zip#ID 2615 - allegati pdf - rev.1/ID2615-EA8-Bando.pdf",
-   "sha256": "3604c93af4a9d99602119813715be5fa76b18b705a59fd25cc03672b61898475",
-   "byte": 7021130,
-   "data_acquisizione": "2026-11-05T15:46:16+00:00",
-   "asset": "ID2615-EA8-Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2615/ID2615-EA8-Bando.pdf"
-  },
-  {
-   "iniziativa": "consip-2615",
-   "titolo": "ID2615-EA8-Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202615%20-%20DOC%20UFF.zip#ID2615-EA8-Bando.pdf.p7m",
-   "sha256": "7269bc2cb3807e5ba3a40b37211297207ac73c7876411764b3bc461ef9f1d2d3",
-   "byte": 7097302,
-   "data_acquisizione": "2026-11-05T15:45:39+00:00",
-   "asset": "ID_2615_-_DOC_UFF.zip_ID2615-EA8-Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2615/ID_2615_-_DOC_UFF.zip_ID2615-EA8-Bando.pdf.p7m"
   },
   {
    "iniziativa": "consip-2615",
@@ -13394,6 +13394,26 @@
   },
   {
    "iniziativa": "consip-2631",
+   "titolo": "ID 2631 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202631%20-%20DOC%20UFF.zip",
+   "sha256": "3fdc3e62bb253b84cc415e442d78492a1c071a6daad809747a5ac0d5b39b4d8a",
+   "byte": 15795747,
+   "data_acquisizione": "2026-11-05T16:21:46+00:00",
+   "asset": "ID_2631_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2631/ID_2631_-_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2631",
+   "titolo": "ID 2631 - MODULI DI DICHIARAZIONE.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202631%20-%20MODULI%20DI%20DICHIARAZIONE.zip",
+   "sha256": "d94586ed89a8d24534d0bf8f9ca22b73e2a01a535328c1d94acc70417e5ed252",
+   "byte": 431080,
+   "data_acquisizione": "2026-11-05T16:22:23+00:00",
+   "asset": "ID_2631_-_MODULI_DI_DICHIARAZIONE.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2631/ID_2631_-_MODULI_DI_DICHIARAZIONE.zip"
+  },
+  {
+   "iniziativa": "consip-2631",
    "titolo": "ID 2631 - PC Desktop Workstation e Monitor ed 3 - Avviso di aggiudicazione.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202631%20-%20PC%20Desktop%20Workstation%20e%20Monitor%20ed%203%20-%20Avviso%20di%20aggiudicazione.pdf",
    "sha256": "9e028ac403e5caaa0b9e35708d5528ad51c2e97829ca92aa659610e739ca8e6b",
@@ -13444,16 +13464,6 @@
   },
   {
    "iniziativa": "consip-2631",
-   "titolo": "ID 2631 - PC Desktop, Workstation e Monitor ed 3 - Allegato 15.1 Schema Conto Economico Commessa.xlsx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202631%20-%20MODULI%20DI%20DICHIARAZIONE.zip#ID 2631 - MODULI DI DICHIARAZIONE/ID 2631 - PC Desktop, Workstation e Monitor ed 3 - Allegato 15.1 Schema Conto Economico Commessa.xlsx",
-   "sha256": "d94586ed89a8d24534d0bf8f9ca22b73e2a01a535328c1d94acc70417e5ed252",
-   "byte": 431080,
-   "data_acquisizione": "2026-11-05T16:22:23+00:00",
-   "asset": "ID_2631_-_PC_Desktop_Workstation_e_Monitor_ed_3_-_Allegato_15.1_Schema_Conto_Economico_Commessa.xlsx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2631/ID_2631_-_PC_Desktop_Workstation_e_Monitor_ed_3_-_Allegato_15.1_Schema_Conto_Economico_Commessa.xlsx"
-  },
-  {
-   "iniziativa": "consip-2631",
    "titolo": "ID 2631 - PC Desktop, Workstation e Monitor ed 3 - Avviso di aggiudicazione_signed.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202631%20-%20PC%20Desktop%2C%20Workstation%20e%20Monitor%20ed%203%20-%20Avviso%20di%20aggiudicazione_signed.pdf",
    "sha256": "4cdd93e7c1ec4c987c00068bcecba4d285e89cbb3c3c911e74359f5192d84e18",
@@ -13461,16 +13471,6 @@
    "data_acquisizione": "2026-11-05T16:22:02+00:00",
    "asset": "ID_2631_-_PC_Desktop_Workstation_e_Monitor_ed_3_-_Avviso_di_aggiudicazione_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2631/ID_2631_-_PC_Desktop_Workstation_e_Monitor_ed_3_-_Avviso_di_aggiudicazione_signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2631",
-   "titolo": "ID 2631 - PC Desktop, Workstation e Monitor ed 3 - Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202631%20-%20DOC%20UFF.zip#Doc firmati/ID 2631 - PC Desktop, Workstation e Monitor ed 3 - Bando.pdf.p7m",
-   "sha256": "3fdc3e62bb253b84cc415e442d78492a1c071a6daad809747a5ac0d5b39b4d8a",
-   "byte": 15795747,
-   "data_acquisizione": "2026-11-05T16:21:46+00:00",
-   "asset": "ID_2631_-_PC_Desktop_Workstation_e_Monitor_ed_3_-_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2631/ID_2631_-_PC_Desktop_Workstation_e_Monitor_ed_3_-_Bando.pdf.p7m"
   },
   {
    "iniziativa": "consip-2631",
@@ -13744,33 +13744,23 @@
   },
   {
    "iniziativa": "consip-2638",
-   "titolo": "Convenzione - A2A Energia - Lotti 2, 3 ,6, 8, 9, 12.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2638%20-%20Gara%20per%20la%20fornitura%20di%20energia%20elettrica%20e%20dei%20servizi%20per%20la%20PA%20%28ed.%2021%29.zip#Convenzione - A2A Energia - Lotti 2, 3 ,6, 8, 9, 12.pdf",
-   "sha256": "5558ca3c81c16b409861fa691094b4f306f38c8afdda920c733b729d6b570d66",
-   "byte": 2761787,
-   "data_acquisizione": "2026-11-05T17:10:16+00:00",
-   "asset": "ID2638_-_Gara_per_la_fornitura_di_energia_elettrica_e_dei_servizi_per_la_PA_ed._21_.zip_Convenzione_-_A2A_Energia_-_Lotti_2_3_6_8_9_12.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2638/ID2638_-_Gara_per_la_fornitura_di_energia_elettrica_e_dei_servizi_per_la_PA_ed._21_.zip_Convenzione_-_A2A_Energia_-_Lotti_2_3_6_8_9_12.pdf"
-  },
-  {
-   "iniziativa": "consip-2638",
-   "titolo": "EE21 - Bando.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202638%20-%20DOC%20NON%20UFF.zip#EE21 - Bando.pdf",
+   "titolo": "ID 2638 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202638%20-%20DOC%20NON%20UFF.zip",
    "sha256": "1595621188ae422672e1c63819a809e70a85c96bbd6e2519707819a293e5220b",
    "byte": 6951213,
    "data_acquisizione": "2026-11-05T17:09:44+00:00",
-   "asset": "ID_2638_-_DOC_NON_UFF.zip_EE21_-_Bando.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2638/ID_2638_-_DOC_NON_UFF.zip_EE21_-_Bando.pdf"
+   "asset": "ID_2638_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2638/ID_2638_-_DOC_NON_UFF.zip"
   },
   {
    "iniziativa": "consip-2638",
-   "titolo": "EE21 - Bando.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202638%20-%20DOC%20UFF.zip#EE21 - Bando.pdf.p7m",
+   "titolo": "ID 2638 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202638%20-%20DOC%20UFF.zip",
    "sha256": "2a11713c91207c37bfb841c699b13648410ab0d6b7ac26042d351cbecda65862",
    "byte": 7014341,
    "data_acquisizione": "2026-11-05T17:09:07+00:00",
-   "asset": "ID_2638_-_DOC_UFF.zip_EE21_-_Bando.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2638/ID_2638_-_DOC_UFF.zip_EE21_-_Bando.pdf.p7m"
+   "asset": "ID_2638_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2638/ID_2638_-_DOC_UFF.zip"
   },
   {
    "iniziativa": "consip-2638",
@@ -13934,6 +13924,16 @@
   },
   {
    "iniziativa": "consip-2638",
+   "titolo": "ID2638 - Gara per la fornitura di energia elettrica e dei servizi per la PA (ed. 21).zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2638%20-%20Gara%20per%20la%20fornitura%20di%20energia%20elettrica%20e%20dei%20servizi%20per%20la%20PA%20%28ed.%2021%29.zip",
+   "sha256": "5558ca3c81c16b409861fa691094b4f306f38c8afdda920c733b729d6b570d66",
+   "byte": 2761787,
+   "data_acquisizione": "2026-11-05T17:10:16+00:00",
+   "asset": "ID2638_-_Gara_per_la_fornitura_di_energia_elettrica_e_dei_servizi_per_la_PA_ed._21_.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2638/ID2638_-_Gara_per_la_fornitura_di_energia_elettrica_e_dei_servizi_per_la_PA_ed._21_.zip"
+  },
+  {
+   "iniziativa": "consip-2638",
    "titolo": "Numero operatori offerenti - ID 2638.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Numero%20operatori%20offerenti%20-%20ID%202638.pdf",
    "sha256": "dceb7d0773c6c4e93763a9e209286a2c84cb365e6d2bfe3d73fb3ab225b4b161",
@@ -14044,6 +14044,16 @@
   },
   {
    "iniziativa": "consip-2648",
+   "titolo": "Contratti ID2648.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Contratti%20ID2648.zip",
+   "sha256": "bba7751948edc54b88bcc52d6c24139064f446b1551851acf391b9b771ed92c2",
+   "byte": 1264655,
+   "data_acquisizione": "2026-11-05T16:27:37+00:00",
+   "asset": "Contratti_ID2648.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2648/Contratti_ID2648.zip"
+  },
+  {
+   "iniziativa": "consip-2648",
    "titolo": "Elenco verbali - ID 2648.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Elenco%20verbali%20-%20ID%202648.pdf",
    "sha256": "f94d339017f02fec06c20f5ce2f78a0d210bad7a04cf61be77af0edc76b2a619",
@@ -14144,26 +14154,6 @@
   },
   {
    "iniziativa": "consip-2648",
-   "titolo": "ID2648 - Gara AQ SGM ed.2 - Bando di gara AQ.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2648%20-%20PDF%20-%20NEW%20NON%20UFF.zip#ID2648 - PDF - NEW NON UFF/ID2648 - Gara AQ SGM ed.2 - Bando di gara AQ.pdf",
-   "sha256": "b270ed35685dcb419bb8711b9eb0dea8df4275b9429419487340eac75157100b",
-   "byte": 22071741,
-   "data_acquisizione": "2026-11-05T16:28:29+00:00",
-   "asset": "ID2648_-_Gara_AQ_SGM_ed.2_-_Bando_di_gara_AQ.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2648/ID2648_-_Gara_AQ_SGM_ed.2_-_Bando_di_gara_AQ.pdf"
-  },
-  {
-   "iniziativa": "consip-2648",
-   "titolo": "ID2648 - Gara AQ SGM ed.2 - Bando di gara AQ.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID2648%20-%20PDF%20-%20NEW%20UFF.zip#ID2648 - PDF - NEW UFF/ID2648 - Gara AQ SGM ed.2 - Bando di gara AQ.pdf.p7m",
-   "sha256": "29ccd0091efab433b5e74c1e705e18529b06ede6ad27fc1a9d70bec3ab9d31cd",
-   "byte": 22242373,
-   "data_acquisizione": "2026-11-05T16:27:26+00:00",
-   "asset": "ID2648_-_Gara_AQ_SGM_ed.2_-_Bando_di_gara_AQ.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2648/ID2648_-_Gara_AQ_SGM_ed.2_-_Bando_di_gara_AQ.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2648",
    "titolo": "ID2648 - Gara AQ SGM ed.2 - Capitolato tecnico - Appendice B_chiarimenti.xlsx_0.p7m",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID2648%20-%20Gara%20AQ%20SGM%20ed.2%20-%20Capitolato%20tecnico%20-%20Appendice%20B_chiarimenti.xlsx_0.p7m",
    "sha256": "8794b3fdcfb62033a276a811ad30c3836920cc4fb2f92cf71f86680031335b7e",
@@ -14234,16 +14224,6 @@
   },
   {
    "iniziativa": "consip-2648",
-   "titolo": "ID2648 - Gara AQ SGM ed.2 - Schema di Accordo Quadro_TIM_v1.0.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Contratti%20ID2648.zip#Contratti ID2648/ID2648 - Gara AQ SGM ed.2 - Schema di Accordo Quadro_TIM_v1.0.pdf",
-   "sha256": "bba7751948edc54b88bcc52d6c24139064f446b1551851acf391b9b771ed92c2",
-   "byte": 1264655,
-   "data_acquisizione": "2026-11-05T16:27:37+00:00",
-   "asset": "ID2648_-_Gara_AQ_SGM_ed.2_-_Schema_di_Accordo_Quadro_TIM_v1.0.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2648/ID2648_-_Gara_AQ_SGM_ed.2_-_Schema_di_Accordo_Quadro_TIM_v1.0.pdf"
-  },
-  {
-   "iniziativa": "consip-2648",
    "titolo": "ID2648 - MODULI DI DICHIARAZIONE NEW.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2648%20-%20MODULI%20DI%20DICHIARAZIONE%20NEW.zip",
    "sha256": "610c6b5f4d5cc868d5712d14ea6d1d6230cdc5203ce1dd3b31bb0d58ca241418",
@@ -14251,6 +14231,26 @@
    "data_acquisizione": "2026-11-05T16:28:24+00:00",
    "asset": "ID2648_-_MODULI_DI_DICHIARAZIONE_NEW.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2648/ID2648_-_MODULI_DI_DICHIARAZIONE_NEW.zip"
+  },
+  {
+   "iniziativa": "consip-2648",
+   "titolo": "ID2648 - PDF - NEW NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID2648%20-%20PDF%20-%20NEW%20NON%20UFF.zip",
+   "sha256": "b270ed35685dcb419bb8711b9eb0dea8df4275b9429419487340eac75157100b",
+   "byte": 22071741,
+   "data_acquisizione": "2026-11-05T16:28:29+00:00",
+   "asset": "ID2648_-_PDF_-_NEW_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2648/ID2648_-_PDF_-_NEW_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2648",
+   "titolo": "ID2648 - PDF - NEW UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID2648%20-%20PDF%20-%20NEW%20UFF.zip",
+   "sha256": "29ccd0091efab433b5e74c1e705e18529b06ede6ad27fc1a9d70bec3ab9d31cd",
+   "byte": 22242373,
+   "data_acquisizione": "2026-11-05T16:27:26+00:00",
+   "asset": "ID2648_-_PDF_-_NEW_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2648/ID2648_-_PDF_-_NEW_UFF.zip"
   },
   {
    "iniziativa": "consip-2648",
@@ -14434,26 +14434,6 @@
   },
   {
    "iniziativa": "consip-2652",
-   "titolo": "All. 19A - ID 2652 - Capitolato Tecnico Speciale Servizi Tecnologici Lotti 6-10_NEW.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202652%20-%20doc%20ripubblicati_NEW_UFF.zip#ID 2652 - doc ripubblicati_NEW_Firmati/All. 19A - ID 2652 - Capitolato Tecnico Speciale Servizi Tecnologici Lotti 6-10_NEW.pdf.p7m",
-   "sha256": "2897ba8471bb6daaa45d190901340fb0d9f3afb3dda5b0a354233719866efa26",
-   "byte": 3153023,
-   "data_acquisizione": "2026-11-05T16:39:10+00:00",
-   "asset": "All._19A_-_ID_2652_-_Capitolato_Tecnico_Speciale_Servizi_Tecnologici_Lotti_6-10_NEW.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/All._19A_-_ID_2652_-_Capitolato_Tecnico_Speciale_Servizi_Tecnologici_Lotti_6-10_NEW.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2652",
-   "titolo": "All. 19A - ID 2652 - Gara Cloud Enabling - Capitolato Tecnico Speciale Servizi Tecnologici Lotti 6-10_NEW.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202652%20-%20doc%20ripubblicati_NEW%20-%20NON%20UFF.zip#ID 2652 - doc ripubblicati_NEW - PDF/All. 19A - ID 2652 - Gara Cloud Enabling - Capitolato Tecnico Speciale Servizi Tecnologici Lotti 6-10_NEW.pdf",
-   "sha256": "7717511ed5c0e63705487ff78aed759a3c4e36b91646a99951daf4c779ab77b2",
-   "byte": 3129152,
-   "data_acquisizione": "2026-11-05T16:40:35+00:00",
-   "asset": "All._19A_-_ID_2652_-_Gara_Cloud_Enabling_-_Capitolato_Tecnico_Speciale_Servizi_Tecnologici_Lotti_6-10_NEW.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/All._19A_-_ID_2652_-_Gara_Cloud_Enabling_-_Capitolato_Tecnico_Speciale_Servizi_Tecnologici_Lotti_6-10_NEW.pdf"
-  },
-  {
-   "iniziativa": "consip-2652",
    "titolo": "Elenco verbali - ID 2652 (l. 1- 5).pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Elenco%20verbali%20-%20ID%202652%20%28l.%201-%205%29.pdf",
    "sha256": "74120e59eebcbb149da9a31a1cf2c415ee0a184b740c7a981ec6ed420cba17d5",
@@ -14481,26 +14461,6 @@
    "data_acquisizione": "2026-11-05T16:38:37+00:00",
    "asset": "ID_2652_-_AQ_Cloud_Enabling_-_Contratti_Lotti_1_10_oscurati.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/ID_2652_-_AQ_Cloud_Enabling_-_Contratti_Lotti_1_10_oscurati.zip"
-  },
-  {
-   "iniziativa": "consip-2652",
-   "titolo": "ID 2652 - Bando AQ CLOUD ENABLING.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202652%20-%20DOC%20NON%20UFF.zip#ID 2652 - Bando AQ CLOUD ENABLING.pdf",
-   "sha256": "0abff572ea1deb005dfcc09345115c298f33a44b3478afb6e9d6c441c2affc70",
-   "byte": 11151032,
-   "data_acquisizione": "2026-11-05T16:40:24+00:00",
-   "asset": "ID_2652_-_DOC_NON_UFF.zip_ID_2652_-_Bando_AQ_CLOUD_ENABLING.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/ID_2652_-_DOC_NON_UFF.zip_ID_2652_-_Bando_AQ_CLOUD_ENABLING.pdf"
-  },
-  {
-   "iniziativa": "consip-2652",
-   "titolo": "ID 2652 - Bando AQ CLOUD ENABLING.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202652%20-%20DOC%20UFF.zip#ID 2652 - Bando AQ CLOUD ENABLING.pdf.p7m",
-   "sha256": "871531b03a8176e68d44de184b438ee66d517f1e105c02d1e936cdc9f68bd5fe",
-   "byte": 11241127,
-   "data_acquisizione": "2026-11-05T16:39:04+00:00",
-   "asset": "ID_2652_-_DOC_UFF.zip_ID_2652_-_Bando_AQ_CLOUD_ENABLING.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/ID_2652_-_DOC_UFF.zip_ID_2652_-_Bando_AQ_CLOUD_ENABLING.pdf.p7m"
   },
   {
    "iniziativa": "consip-2652",
@@ -14584,6 +14544,26 @@
   },
   {
    "iniziativa": "consip-2652",
+   "titolo": "ID 2652 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202652%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "0abff572ea1deb005dfcc09345115c298f33a44b3478afb6e9d6c441c2affc70",
+   "byte": 11151032,
+   "data_acquisizione": "2026-11-05T16:40:24+00:00",
+   "asset": "ID_2652_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/ID_2652_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2652",
+   "titolo": "ID 2652 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202652%20-%20DOC%20UFF.zip",
+   "sha256": "871531b03a8176e68d44de184b438ee66d517f1e105c02d1e936cdc9f68bd5fe",
+   "byte": 11241127,
+   "data_acquisizione": "2026-11-05T16:39:04+00:00",
+   "asset": "ID_2652_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/ID_2652_-_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2652",
    "titolo": "ID 2652 - MODULI DI DICHIARAZIONE.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202652%20-%20MODULI%20DI%20DICHIARAZIONE.zip",
    "sha256": "1627cc5289c9c1dc1070f06ef82afc8f27eb5362684c02c77bbab13fd257c8fb",
@@ -14591,6 +14571,26 @@
    "data_acquisizione": "2026-11-05T16:40:30+00:00",
    "asset": "ID_2652_-_MODULI_DI_DICHIARAZIONE.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/ID_2652_-_MODULI_DI_DICHIARAZIONE.zip"
+  },
+  {
+   "iniziativa": "consip-2652",
+   "titolo": "ID 2652 - doc ripubblicati_NEW - NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202652%20-%20doc%20ripubblicati_NEW%20-%20NON%20UFF.zip",
+   "sha256": "7717511ed5c0e63705487ff78aed759a3c4e36b91646a99951daf4c779ab77b2",
+   "byte": 3129152,
+   "data_acquisizione": "2026-11-05T16:40:35+00:00",
+   "asset": "ID_2652_-_doc_ripubblicati_NEW_-_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/ID_2652_-_doc_ripubblicati_NEW_-_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2652",
+   "titolo": "ID 2652 - doc ripubblicati_NEW_UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202652%20-%20doc%20ripubblicati_NEW_UFF.zip",
+   "sha256": "2897ba8471bb6daaa45d190901340fb0d9f3afb3dda5b0a354233719866efa26",
+   "byte": 3153023,
+   "data_acquisizione": "2026-11-05T16:39:10+00:00",
+   "asset": "ID_2652_-_doc_ripubblicati_NEW_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2652/ID_2652_-_doc_ripubblicati_NEW_UFF.zip"
   },
   {
    "iniziativa": "consip-2652",
@@ -14854,23 +14854,23 @@
   },
   {
    "iniziativa": "consip-2700",
-   "titolo": "BANDO DI GARA - ID 2700.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF%20-%20ID%202700.zip#BANDO DI GARA - ID 2700.pdf",
+   "titolo": "DOC NON UFF - ID 2700.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF%20-%20ID%202700.zip",
    "sha256": "0995ddbc255e803b502bc0bca229246482e952c5dbe37df0e5e95de934404493",
    "byte": 7636797,
    "data_acquisizione": "2026-11-05T17:04:03+00:00",
-   "asset": "DOC_NON_UFF_-_ID_2700.zip_BANDO_DI_GARA_-_ID_2700.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2700/DOC_NON_UFF_-_ID_2700.zip_BANDO_DI_GARA_-_ID_2700.pdf"
+   "asset": "DOC_NON_UFF_-_ID_2700.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2700/DOC_NON_UFF_-_ID_2700.zip"
   },
   {
    "iniziativa": "consip-2700",
-   "titolo": "BANDO DI GARA - ID 2700.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20-%20ID%202700.zip#ID 2700_AQ CRM 2_Doc.firm.digit/BANDO DI GARA - ID 2700.pdf.p7m",
+   "titolo": "DOC UFF - ID 2700.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20-%20ID%202700.zip",
    "sha256": "8045472924d192d80935d1f9c609d9f603809febbaefcbdc9b1f4d9779ebf2e5",
    "byte": 7724598,
    "data_acquisizione": "2026-11-05T17:02:54+00:00",
-   "asset": "BANDO_DI_GARA_-_ID_2700.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2700/BANDO_DI_GARA_-_ID_2700.pdf.p7m"
+   "asset": "DOC_UFF_-_ID_2700.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2700/DOC_UFF_-_ID_2700.zip"
   },
   {
    "iniziativa": "consip-2700",
@@ -15074,26 +15074,6 @@
   },
   {
    "iniziativa": "consip-2710",
-   "titolo": "BANDO DI GARA ID 2710.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202710%20DOC%20NON%20UFF.zip#BANDO DI GARA ID 2710.pdf",
-   "sha256": "5cd1f43729f0fb5c3958205d77a6e41debf2a324fb21b4de08c176594db23a67",
-   "byte": 7939895,
-   "data_acquisizione": "2026-11-05T16:45:17+00:00",
-   "asset": "ID_2710_DOC_NON_UFF.zip_BANDO_DI_GARA_ID_2710.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2710/ID_2710_DOC_NON_UFF.zip_BANDO_DI_GARA_ID_2710.pdf"
-  },
-  {
-   "iniziativa": "consip-2710",
-   "titolo": "BANDO DI GARA ID 2710.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202710%20DOC%20UFF.zip#BANDO DI GARA ID 2710.pdf.p7m",
-   "sha256": "307598da2d1dc976c85ba576b27b07773220ee7c201199af796a157ba56e3137",
-   "byte": 8028545,
-   "data_acquisizione": "2026-11-05T16:44:13+00:00",
-   "asset": "ID_2710_DOC_UFF.zip_BANDO_DI_GARA_ID_2710.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2710/ID_2710_DOC_UFF.zip_BANDO_DI_GARA_ID_2710.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2710",
    "titolo": "Elenco verbali - ID 2710.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Elenco%20verbali%20-%20ID%202710.pdf",
    "sha256": "5b33474717410b76a9a85ddf48bf219a419e967ced1d4339ec8510ca1fbf71e9",
@@ -15204,16 +15184,6 @@
   },
   {
    "iniziativa": "consip-2710",
-   "titolo": "ID 2710 - Allegato 8 - Condizioni di assicurazione (modello per contratti esecutivi).docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/MODULI%20DI%20DICHIARAZIONE%20ID%202710.zip#MODULI DI DICHIARAZIONE ID 2710/ID 2710 - Allegato 8 - Condizioni di assicurazione (modello per contratti esecutivi).docx",
-   "sha256": "2f774221f6124b5dd549ba47b5ca83871c5ba369df4c1cb90f2864182088f891",
-   "byte": 412038,
-   "data_acquisizione": "2026-11-05T16:45:27+00:00",
-   "asset": "ID_2710_-_Allegato_8_-_Condizioni_di_assicurazione_modello_per_contratti_esecutivi_.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2710/ID_2710_-_Allegato_8_-_Condizioni_di_assicurazione_modello_per_contratti_esecutivi_.docx"
-  },
-  {
-   "iniziativa": "consip-2710",
    "titolo": "ID 2710 - Errata Corrige.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202710%20-%20Errata%20Corrige.pdf",
    "sha256": "cc54519b7679768bb74c12e5d84398429d6fd3ca4ae15f4f37cbd1835c58fff0",
@@ -15274,6 +15244,26 @@
   },
   {
    "iniziativa": "consip-2710",
+   "titolo": "ID 2710 DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202710%20DOC%20NON%20UFF.zip",
+   "sha256": "5cd1f43729f0fb5c3958205d77a6e41debf2a324fb21b4de08c176594db23a67",
+   "byte": 7939895,
+   "data_acquisizione": "2026-11-05T16:45:17+00:00",
+   "asset": "ID_2710_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2710/ID_2710_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2710",
+   "titolo": "ID 2710 DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202710%20DOC%20UFF.zip",
+   "sha256": "307598da2d1dc976c85ba576b27b07773220ee7c201199af796a157ba56e3137",
+   "byte": 8028545,
+   "data_acquisizione": "2026-11-05T16:44:13+00:00",
+   "asset": "ID_2710_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2710/ID_2710_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2710",
    "titolo": "ID 2710 RAPPORTO PARITA.zip",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202710%20RAPPORTO%20PARITA.zip",
    "sha256": "c73e18be88d6017208fc8cd042f9b98af7706ef996e8d58a90d1c3cc51bb63aa",
@@ -15301,6 +15291,16 @@
    "data_acquisizione": "2026-11-05T16:44:18+00:00",
    "asset": "ID2710_-_AQ_system_management_-_Avviso_di_proroga_signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2710/ID2710_-_AQ_system_management_-_Avviso_di_proroga_signed.pdf"
+  },
+  {
+   "iniziativa": "consip-2710",
+   "titolo": "MODULI DI DICHIARAZIONE ID 2710.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/MODULI%20DI%20DICHIARAZIONE%20ID%202710.zip",
+   "sha256": "2f774221f6124b5dd549ba47b5ca83871c5ba369df4c1cb90f2864182088f891",
+   "byte": 412038,
+   "data_acquisizione": "2026-11-05T16:45:27+00:00",
+   "asset": "MODULI_DI_DICHIARAZIONE_ID_2710.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2710/MODULI_DI_DICHIARAZIONE_ID_2710.zip"
   },
   {
    "iniziativa": "consip-2710",
@@ -15434,26 +15434,6 @@
   },
   {
    "iniziativa": "consip-2738",
-   "titolo": "BANDO ID 2738.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF%20ID%202738.zip#BANDO ID 2738.pdf",
-   "sha256": "d4fcd4e6a1387c15b4c53944c6272bc71ddbb19638f57ca29b313684b296afe4",
-   "byte": 24150833,
-   "data_acquisizione": "2026-11-05T16:09:52+00:00",
-   "asset": "DOC_NON_UFF_ID_2738.zip_BANDO_ID_2738.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/DOC_NON_UFF_ID_2738.zip_BANDO_ID_2738.pdf"
-  },
-  {
-   "iniziativa": "consip-2738",
-   "titolo": "BANDO ID 2738.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20ID%202738.zip#Doc firmati ID 2738/BANDO ID 2738.pdf.p7m",
-   "sha256": "4112c902fd7678c8e298ff5401954db97e44325f3c58ca7a72ee4f9c437cd073",
-   "byte": 24402006,
-   "data_acquisizione": "2026-11-05T16:09:04+00:00",
-   "asset": "BANDO_ID_2738.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/BANDO_ID_2738.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2738",
    "titolo": "CONVERGE L.OTTO 4.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/CONVERGE%20L.OTTO%204.pdf",
    "sha256": "2537fb8172d62b4d4486b1cf8cf0f371c7001b17efb60d09d1aa1be157cc858b",
@@ -15461,6 +15441,26 @@
    "data_acquisizione": "2026-11-05T16:09:47+00:00",
    "asset": "CONVERGE_L.OTTO_4.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/CONVERGE_L.OTTO_4.pdf"
+  },
+  {
+   "iniziativa": "consip-2738",
+   "titolo": "DOC NON UFF ID 2738.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF%20ID%202738.zip",
+   "sha256": "d4fcd4e6a1387c15b4c53944c6272bc71ddbb19638f57ca29b313684b296afe4",
+   "byte": 24150833,
+   "data_acquisizione": "2026-11-05T16:09:52+00:00",
+   "asset": "DOC_NON_UFF_ID_2738.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/DOC_NON_UFF_ID_2738.zip"
+  },
+  {
+   "iniziativa": "consip-2738",
+   "titolo": "DOC UFF ID 2738.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF%20ID%202738.zip",
+   "sha256": "4112c902fd7678c8e298ff5401954db97e44325f3c58ca7a72ee4f9c437cd073",
+   "byte": 24402006,
+   "data_acquisizione": "2026-11-05T16:09:04+00:00",
+   "asset": "DOC_UFF_ID_2738.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/DOC_UFF_ID_2738.zip"
   },
   {
    "iniziativa": "consip-2738",
@@ -15541,16 +15541,6 @@
    "data_acquisizione": "2026-11-05T16:12:04+00:00",
    "asset": "ID_2738_-_Mulltibrand_7_-_Lotto_9-_Estensione_massimale-signed.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/ID_2738_-_Mulltibrand_7_-_Lotto_9-_Estensione_massimale-signed.pdf"
-  },
-  {
-   "iniziativa": "consip-2738",
-   "titolo": "ID 2738 - Multibrand 7 - 2-8 - Allegato 8 - Facsimile di garanzie per la stipula della Convenzione.docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202738%20MODULI%20DI%20DICHIARAZIONE.zip#ID 2738 MODULI DI DICHIARAZIONE/ID 2738 - Multibrand 7 - 2-8 - Allegato 8 - Facsimile di garanzie per la stipula della Convenzione.docx",
-   "sha256": "cd7aa157461859dfb44e733cfbaabb7cc2492ad25115069c2adde95633d489dd",
-   "byte": 445995,
-   "data_acquisizione": "2026-11-05T16:10:29+00:00",
-   "asset": "ID_2738_-_Multibrand_7_-_2-8_-_Allegato_8_-_Facsimile_di_garanzie_per_la_stipula_della_Convenzione.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/ID_2738_-_Multibrand_7_-_2-8_-_Allegato_8_-_Facsimile_di_garanzie_per_la_stipula_della_Convenzione.docx"
   },
   {
    "iniziativa": "consip-2738",
@@ -15701,6 +15691,16 @@
    "data_acquisizione": "2026-11-05T16:12:46+00:00",
    "asset": "ID_2738_Lotto_8_Olidata_Dichiarazione_DISABILI_oscurato_0_0.zip",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/ID_2738_Lotto_8_Olidata_Dichiarazione_DISABILI_oscurato_0_0.zip"
+  },
+  {
+   "iniziativa": "consip-2738",
+   "titolo": "ID 2738 MODULI DI DICHIARAZIONE.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202738%20MODULI%20DI%20DICHIARAZIONE.zip",
+   "sha256": "cd7aa157461859dfb44e733cfbaabb7cc2492ad25115069c2adde95633d489dd",
+   "byte": 445995,
+   "data_acquisizione": "2026-11-05T16:10:29+00:00",
+   "asset": "ID_2738_MODULI_DI_DICHIARAZIONE.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2738/ID_2738_MODULI_DI_DICHIARAZIONE.zip"
   },
   {
    "iniziativa": "consip-2738",
@@ -15884,26 +15884,6 @@
   },
   {
    "iniziativa": "consip-2746",
-   "titolo": "BANDO DI GARA ID 2746 GUUE S 83 29-04-2025.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202746%20DOC%20NON%20UFF.zip#ID 2746 - AQ IaaS e PaaS 2 - Documenti in PDF/BANDO DI GARA ID 2746 GUUE S 83 29-04-2025.pdf",
-   "sha256": "9a42143c573107f64dc26983a46d092a7d3273a23376b285016de37cc251f5e9",
-   "byte": 6712370,
-   "data_acquisizione": "2026-11-05T17:32:14+00:00",
-   "asset": "BANDO_DI_GARA_ID_2746_GUUE_S_83_29-04-2025.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2746/BANDO_DI_GARA_ID_2746_GUUE_S_83_29-04-2025.pdf"
-  },
-  {
-   "iniziativa": "consip-2746",
-   "titolo": "BANDO DI GARA ID 2746 GUUE S 83 29-04-2025.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202746%20DOC%20UFF.zip#BANDO DI GARA ID 2746 GUUE S 83 29-04-2025.pdf.p7m",
-   "sha256": "e53bfe539c042b186e624c029a332b3dd65aedd4e7f8587693f71077d3366b2d",
-   "byte": 6791270,
-   "data_acquisizione": "2026-11-05T17:31:06+00:00",
-   "asset": "ID_2746_DOC_UFF.zip_BANDO_DI_GARA_ID_2746_GUUE_S_83_29-04-2025.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2746/ID_2746_DOC_UFF.zip_BANDO_DI_GARA_ID_2746_GUUE_S_83_29-04-2025.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2746",
    "titolo": "Elenco verbali - ID 2746.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/Elenco%20verbali%20-%20ID%202746.pdf",
    "sha256": "2a520b9ac5b4e00c57f92811b8c09a9018b704e8343c4775fbf1b863a67280c1",
@@ -15974,16 +15954,6 @@
   },
   {
    "iniziativa": "consip-2746",
-   "titolo": "ID 2746 - AQ IaaS e PaaS 2 - Allegato 6 - Facsimile di garanzie per la stipula Accordo Quadro.docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/MODULI%20DI%20DICHIARAZIONE%20ID%202746.zip#MODULI DI DICHIARAZIONE ID 2746/ID 2746 - AQ IaaS e PaaS 2 - Allegato 6 - Facsimile di garanzie per la stipula Accordo Quadro.docx",
-   "sha256": "9c65a429648e004be69c0ffa4b37a2edefa86bacde991a5e43a1e123a8490037",
-   "byte": 461323,
-   "data_acquisizione": "2026-11-05T17:32:25+00:00",
-   "asset": "ID_2746_-_AQ_IaaS_e_PaaS_2_-_Allegato_6_-_Facsimile_di_garanzie_per_la_stipula_Accordo_Quadro.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2746/ID_2746_-_AQ_IaaS_e_PaaS_2_-_Allegato_6_-_Facsimile_di_garanzie_per_la_stipula_Accordo_Quadro.docx"
-  },
-  {
-   "iniziativa": "consip-2746",
    "titolo": "ID 2746 - IaaS e PaaS 2 - Determina a contrarre - D.Lgs_. 36_2023-signed.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202746%20-%20IaaS%20e%20PaaS%202%20-%20Determina%20a%20contrarre%20-%20D.Lgs_.%2036_2023-signed.pdf",
    "sha256": "4710e71ebeaa2fe260c04aeb4eb4845ca507714f29221217cd49033b66badfc4",
@@ -16044,6 +16014,26 @@
   },
   {
    "iniziativa": "consip-2746",
+   "titolo": "ID 2746 DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202746%20DOC%20NON%20UFF.zip",
+   "sha256": "9a42143c573107f64dc26983a46d092a7d3273a23376b285016de37cc251f5e9",
+   "byte": 6712370,
+   "data_acquisizione": "2026-11-05T17:32:14+00:00",
+   "asset": "ID_2746_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2746/ID_2746_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2746",
+   "titolo": "ID 2746 DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202746%20DOC%20UFF.zip",
+   "sha256": "e53bfe539c042b186e624c029a332b3dd65aedd4e7f8587693f71077d3366b2d",
+   "byte": 6791270,
+   "data_acquisizione": "2026-11-05T17:31:06+00:00",
+   "asset": "ID_2746_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2746/ID_2746_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2746",
    "titolo": "ID 2746 L.1-5-6 ESITO GUUE S 11 DEL 16-01-26.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202746%20L.1-5-6%20ESITO%20GUUE%20S%2011%20DEL%2016-01-26.pdf",
    "sha256": "830667b9e2862b101ab4e17740b69869bf9b760bce0fb13714706863a9011d0d",
@@ -16061,6 +16051,16 @@
    "data_acquisizione": "2026-11-05T17:31:11+00:00",
    "asset": "ID_2746_L.1-5-6_ESITO_GUUE_S_11_DEL_16-01-26.pdf.p7m",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2746/ID_2746_L.1-5-6_ESITO_GUUE_S_11_DEL_16-01-26.pdf.p7m"
+  },
+  {
+   "iniziativa": "consip-2746",
+   "titolo": "MODULI DI DICHIARAZIONE ID 2746.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/MODULI%20DI%20DICHIARAZIONE%20ID%202746.zip",
+   "sha256": "9c65a429648e004be69c0ffa4b37a2edefa86bacde991a5e43a1e123a8490037",
+   "byte": 461323,
+   "data_acquisizione": "2026-11-05T17:32:25+00:00",
+   "asset": "MODULI_DI_DICHIARAZIONE_ID_2746.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2746/MODULI_DI_DICHIARAZIONE_ID_2746.zip"
   },
   {
    "iniziativa": "consip-2746",
@@ -16094,23 +16094,23 @@
   },
   {
    "iniziativa": "consip-2755",
-   "titolo": "BANDO DI GARA ID 2755.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF_0.zip#Pdf/BANDO DI GARA ID 2755.pdf",
+   "titolo": "DOC NON UFF_0.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/DOC%20NON%20UFF_0.zip",
    "sha256": "c02f5a50f491c246d7d6667fbf838aad5ef82b9725d1d5a9d930e4f9647f2b6c",
    "byte": 7707584,
    "data_acquisizione": "2026-11-05T16:13:49+00:00",
-   "asset": "BANDO_DI_GARA_ID_2755.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2755/BANDO_DI_GARA_ID_2755.pdf"
+   "asset": "DOC_NON_UFF_0.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2755/DOC_NON_UFF_0.zip"
   },
   {
    "iniziativa": "consip-2755",
-   "titolo": "BANDO DI GARA ID 2755.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF_0.zip#ID2755 - firmati/BANDO DI GARA ID 2755.pdf.p7m",
+   "titolo": "DOC UFF_0.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/DOC%20UFF_0.zip",
    "sha256": "691c9df3898c6192793bef78993124a3768bfb6ef19d168d6fb0ec4489276062",
    "byte": 7789502,
    "data_acquisizione": "2026-11-05T16:13:07+00:00",
-   "asset": "BANDO_DI_GARA_ID_2755.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2755/BANDO_DI_GARA_ID_2755.pdf.p7m"
+   "asset": "DOC_UFF_0.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2755/DOC_UFF_0.zip"
   },
   {
    "iniziativa": "consip-2755",
@@ -16424,26 +16424,6 @@
   },
   {
    "iniziativa": "consip-2781",
-   "titolo": "BANDO DI GARA ID 2781.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202781%20-%20DOC%20NON%20UFF.zip#ID 2781 - Pubblicazione PDF/BANDO DI GARA ID 2781.pdf",
-   "sha256": "7b29312d96980e2b3848632218b70cbefb2e3028793f8f12c91f0a99dc2d775e",
-   "byte": 8167329,
-   "data_acquisizione": "2026-11-05T16:54:32+00:00",
-   "asset": "BANDO_DI_GARA_ID_2781.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2781/BANDO_DI_GARA_ID_2781.pdf"
-  },
-  {
-   "iniziativa": "consip-2781",
-   "titolo": "BANDO DI GARA ID 2781.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202781%20-%20DOC%20UFF.zip#ID 2781 - Pubblicazione PDF/BANDO DI GARA ID 2781.pdf.p7m",
-   "sha256": "ff3d49375cb224a44e0e9bfac79b5e41aa81b471bcc6a98cfb43cc705a0e15ce",
-   "byte": 8306457,
-   "data_acquisizione": "2026-11-05T16:53:23+00:00",
-   "asset": "BANDO_DI_GARA_ID_2781.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2781/BANDO_DI_GARA_ID_2781.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2781",
    "titolo": "CONVERGE_RAPPORTO DI GENERE BIENNIO 22-23.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/CONVERGE_RAPPORTO%20DI%20GENERE%20BIENNIO%2022-23.pdf",
    "sha256": "9e0731f3cd4059ad357ced8457c93d06738e4baa19a72fc9b7153caa47f8bbd3",
@@ -16491,6 +16471,26 @@
    "data_acquisizione": "2026-11-05T16:54:27+00:00",
    "asset": "Elenco_verbali_-_ID_2781.pdf",
    "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2781/Elenco_verbali_-_ID_2781.pdf"
+  },
+  {
+   "iniziativa": "consip-2781",
+   "titolo": "ID 2781 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202781%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "7b29312d96980e2b3848632218b70cbefb2e3028793f8f12c91f0a99dc2d775e",
+   "byte": 8167329,
+   "data_acquisizione": "2026-11-05T16:54:32+00:00",
+   "asset": "ID_2781_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2781/ID_2781_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2781",
+   "titolo": "ID 2781 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202781%20-%20DOC%20UFF.zip",
+   "sha256": "ff3d49375cb224a44e0e9bfac79b5e41aa81b471bcc6a98cfb43cc705a0e15ce",
+   "byte": 8306457,
+   "data_acquisizione": "2026-11-05T16:53:23+00:00",
+   "asset": "ID_2781_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2781/ID_2781_-_DOC_UFF.zip"
   },
   {
    "iniziativa": "consip-2781",
@@ -16724,26 +16724,6 @@
   },
   {
    "iniziativa": "consip-2928",
-   "titolo": "BANDO ID 2928 GUUE ONLINE 26.03.2026 S 060.pdf.pdf",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202928%20-%20DOC%20NON%20UFF.zip#da firmare/BANDO ID 2928 GUUE ONLINE 26.03.2026 S 060.pdf.pdf",
-   "sha256": "337c3fac98730f623de653a8cf864b0c4060fbaaead3cbfa0a7961fedba9174c",
-   "byte": 3449361,
-   "data_acquisizione": "2026-11-05T14:26:19+00:00",
-   "asset": "BANDO_ID_2928_GUUE_ONLINE_26.03.2026_S_060.pdf.pdf",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2928/BANDO_ID_2928_GUUE_ONLINE_26.03.2026_S_060.pdf.pdf"
-  },
-  {
-   "iniziativa": "consip-2928",
-   "titolo": "BANDO ID 2928 GUUE ONLINE 26.03.2026 S 060.pdf.pdf.p7m",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202928%20-%20DOC%20UFF.zip#ID 2928 - PRINCO - DOC Firmate/BANDO ID 2928 GUUE ONLINE 26.03.2026 S 060.pdf.pdf.p7m",
-   "sha256": "e1000c2c7c119c5c2db840e61e1caa62e56a6f6349c883efad8ad3a226072f48",
-   "byte": 3508150,
-   "data_acquisizione": "2026-11-05T14:25:08+00:00",
-   "asset": "BANDO_ID_2928_GUUE_ONLINE_26.03.2026_S_060.pdf.pdf.p7m",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2928/BANDO_ID_2928_GUUE_ONLINE_26.03.2026_S_060.pdf.pdf.p7m"
-  },
-  {
-   "iniziativa": "consip-2928",
    "titolo": "ID 2912 - Servizi ICT per INAIL - Chiarimenti_0.pdf",
    "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202912%20-%20Servizi%20ICT%20per%20INAIL%20-%20Chiarimenti_0.pdf",
    "sha256": "2de5d5a071883e9ca63f9cc437aa47de89f0d4e21311be54b321ac4f47758164",
@@ -16774,13 +16754,33 @@
   },
   {
    "iniziativa": "consip-2928",
-   "titolo": "ID 2928 - PRINCO - CdO.docx",
-   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202928%20-%20MODULI%20DI%20DICHIARAZIONE.zip#editabili/ID 2928 - PRINCO - CdO.docx",
+   "titolo": "ID 2928 - DOC NON UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202928%20-%20DOC%20NON%20UFF.zip",
+   "sha256": "337c3fac98730f623de653a8cf864b0c4060fbaaead3cbfa0a7961fedba9174c",
+   "byte": 3449361,
+   "data_acquisizione": "2026-11-05T14:26:19+00:00",
+   "asset": "ID_2928_-_DOC_NON_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2928/ID_2928_-_DOC_NON_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2928",
+   "titolo": "ID 2928 - DOC UFF.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_firmata/ID%202928%20-%20DOC%20UFF.zip",
+   "sha256": "e1000c2c7c119c5c2db840e61e1caa62e56a6f6349c883efad8ad3a226072f48",
+   "byte": 3508150,
+   "data_acquisizione": "2026-11-05T14:25:08+00:00",
+   "asset": "ID_2928_-_DOC_UFF.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2928/ID_2928_-_DOC_UFF.zip"
+  },
+  {
+   "iniziativa": "consip-2928",
+   "titolo": "ID 2928 - MODULI DI DICHIARAZIONE.zip",
+   "url_originale": "https://www.consip.it/sites/default/files/bandi/documentazione_non_firmata/ID%202928%20-%20MODULI%20DI%20DICHIARAZIONE.zip",
    "sha256": "a0f5e66dae526f7cd949e01abe4ac396cf1f0ca363f95226a9d2a7086c8e989e",
    "byte": 1756369,
    "data_acquisizione": "2026-11-05T14:26:30+00:00",
-   "asset": "ID_2928_-_PRINCO_-_CdO.docx",
-   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2928/ID_2928_-_PRINCO_-_CdO.docx"
+   "asset": "ID_2928_-_MODULI_DI_DICHIARAZIONE.zip",
+   "asset_url": "https://github.com/mxmap-it/convenzioni-ict-documenti/releases/download/consip-2928/ID_2928_-_MODULI_DI_DICHIARAZIONE.zip"
   },
   {
    "iniziativa": "consip-2928",
